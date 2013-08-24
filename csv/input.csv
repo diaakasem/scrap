@@ -1,0 +1,10 @@
+Order Date,Order Reference,Supplier,Destination,Pricelist,Order Lines / Product,Order Lines / Quantity
+12/15/12,PO00008,ASUSTeK,Stock,Default Purchase Pricelist,ADPT,20
+12/15/12,PO00008,ASUSTeK,Stock,Default Purchase Pricelist,CARD,30
+12/15/12,PO00008,ASUSTeK,Stock,Default Purchase Pricelist,C-Case,40
+12/15/12,PO00009,Axelor,Stock,Default Purchase Pricelist,CD,5
+12/15/12,PO00009,Axelor,Stock,Default Purchase Pricelist,CPUa8,15
+12/15/12,PO000010,China Export,Stock,Default Purchase Pricelist,HDD SH-1,10
+12/15/12,PO000010,China Export,Stock,Default Purchase Pricelist,HDD SH-2,20
+12/15/12,PO000010,China Export,Stock,Default Purchase Pricelist,LAP-CUS,35
+12/15/12,PO000010,China Export,Stock,Default Purchase Pricelist,LAP-E5,40
