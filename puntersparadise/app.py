@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib2
 import csv
-import time
+import time, datetime
 import re
 import json
 
@@ -34,8 +34,14 @@ def extractPage(url):
     result = []
     racedata = h2.split('-')
     racedate = racedata[0].strip()
+    title = re.findall('(.+)\s*Race.*(\d+)', racedata[1])[0]
+    print title
+    track = title[0]
+    racenumber = title[1]
     racenumber = re.findall('\d+', racedata[1])[0]
     racetime = soup.find('abbr', {'class': 'time12'})['data-utime']
+    otime = datetime.datetime.fromtimestamp(float(racetime))
+    racetime = otime.strftime('%I:%M%p')
 
     data = soup.find('table', {'class': 'formRaceCard'})
     data = data.findAll('tr')[1:]
@@ -51,6 +57,7 @@ def extractPage(url):
         rate = re.findall('\d+', rate)[0]
         obj = {
                 'Rcdate': racedate,
+                'Track': track,
                 'Rctime': racetime,
                 'Rcno': racenumber,
                 'Tab': number,
@@ -72,7 +79,7 @@ def writeData(outputFile, data):
 def main():
     result = []
     meetings = getMeetings()
-    for meeting in meetings[2:4]:
+    for meeting in meetings[8:12]:
         u = url % meeting['href']
         print "Working on : %s" % meeting['href']
         data = extractPage(u)
