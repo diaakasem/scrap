@@ -4,6 +4,7 @@ import csv
 import time, datetime
 import re
 import json
+from dateutil.parser import *
 
 
 BASE = "http://www.puntersparadise.com.au"
@@ -16,6 +17,10 @@ outputFile = 'csvoutput.csv'
 fields = ['Rcdate', 'Track', 'Rcno', 'Rctime', 'Tab', 'Horse', 'Rat']
 pagesCount = 998
 
+def isToday(date_str):
+    d = parse(date_str)
+    n = datetime.datetime.now()
+    return d.day == n.day
 
 def getMeetings():
     page = urllib2.urlopen(meetings_url).read()
@@ -34,8 +39,12 @@ def extractPage(url):
     result = []
     racedata = h2.split('-')
     racedate = racedata[0].strip()
+
+    if not isToday(racedate):
+        print "Skipping - Not today : %s " % racedate
+        return
+
     title = re.findall('(.+)\s*Race.*(\d+)', racedata[1])[0]
-    print title
     track = title[0]
     racenumber = title[1]
     racenumber = re.findall('\d+', racedata[1])[0]
@@ -79,11 +88,12 @@ def writeData(outputFile, data):
 def main():
     result = []
     meetings = getMeetings()
-    for meeting in meetings[8:12]:
+    for meeting in meetings:
         u = url % meeting['href']
         print "Working on : %s" % meeting['href']
         data = extractPage(u)
-        result = result + data
+        if data:
+            result = result + data
         time.sleep(1)
     print "Writing to disk."
     writeData(outputFile, result)
