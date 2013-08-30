@@ -81,7 +81,6 @@ def writeData(outputFile, data):
     with open(outputFile, 'wb') as csvfile:
         output = csv.DictWriter(csvfile, delimiter=',', fieldnames=fields)
         output.writeheader()
-        print data
         output.writerows(data)
 
 

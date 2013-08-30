@@ -1,52 +1,953 @@
 Rcdate,Track,Rcno,Rctime,Tab,Horse,Rat
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,1, A Horse Withnoname,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,2, Forty Nil Manly,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,3, Heart Stealer,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,4, Hit the Road Jack,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,5, Hopfgarten,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,6, Lauterbrunnen,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,7, Redareli,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,8, Romanarma,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,9, Screaming Jet,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,10, Senor Mondo,0
-Wednesday 28th Aug, Eagle Farm ,1,05:13AM,11, Spursyn,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,1, Gangsta George,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,2, Gold Deal,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,3, Holiday,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,4, Joshua's Might,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,5, Kiwi Treasure,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,6, Not Courageable,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,7, Qabla,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,8, Zantaro,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,9, Double Rose,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,10, Hip to Be Square,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,11, Stuck With a Fine,0
-Wednesday 28th Aug, Eagle Farm ,2,05:48AM,12, Trusted Love,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,1, Bay Star,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,2, Graceful Rose,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,3, Indiana Heart,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,4, Moja,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,5, Lanieri,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,6, Breannon,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,7, Command Lady,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,8, My Black Swan,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,9, Miss Zizou,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,10, Easy to Smile,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,11, Rubarosa,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,12, Shamtilly Lace,0
-Wednesday 28th Aug, Eagle Farm ,3,06:23AM,13, Chills,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,1, Brim's Choice,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,2, Eight's a Party,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,3, His Redemption,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,4, Unbowed,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,5, Elite Echelon,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,6, Run for Ever,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,7, Dubling,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,8, Dunlap,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,9, I'm Corleone,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,10, Lucky Lucre,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,11, Port Dynomite,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,12, San Clemente,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,13, Infomertial,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,14, Javaries,0
-Wednesday 28th Aug, Eagle Farm ,4,06:58AM,15, Above Us,0
+Friday 30th Aug, Canberra Acton ,1,04:48AM,1, Lodestone,8
+Friday 30th Aug, Canberra Acton ,1,04:48AM,2, Call Me Up,0
+Friday 30th Aug, Canberra Acton ,1,04:48AM,3, Tony the Pony,0
+Friday 30th Aug, Canberra Acton ,1,04:48AM,4, Cheetah Magee,3
+Friday 30th Aug, Canberra Acton ,1,04:48AM,5, Coco Martini,0
+Friday 30th Aug, Canberra Acton ,1,04:48AM,6, Scarlet Wings,8
+Friday 30th Aug, Canberra Acton ,1,04:48AM,7, Dances On Rainbows,4
+Friday 30th Aug, Canberra Acton ,2,05:23AM,1, Our Billy Blue,13
+Friday 30th Aug, Canberra Acton ,2,05:23AM,2, Dubai Ruler,18
+Friday 30th Aug, Canberra Acton ,2,05:23AM,3, Game of Chance,33
+Friday 30th Aug, Canberra Acton ,2,05:23AM,4, Celtic Soul,14
+Friday 30th Aug, Canberra Acton ,2,05:23AM,5, Brisingr,5
+Friday 30th Aug, Canberra Acton ,2,05:23AM,6, Monsieur Marceau,6
+Friday 30th Aug, Canberra Acton ,3,05:58AM,1, Jolly Joker,20
+Friday 30th Aug, Canberra Acton ,3,05:58AM,2, Astronomer,50
+Friday 30th Aug, Canberra Acton ,3,05:58AM,3, Our Avalanche,20
+Friday 30th Aug, Canberra Acton ,3,05:58AM,4, Bengello,12
+Friday 30th Aug, Canberra Acton ,3,05:58AM,5, Diamonds of Dubawi,40
+Friday 30th Aug, Canberra Acton ,3,05:58AM,6, Star of Bardell,22
+Friday 30th Aug, Canberra Acton ,4,06:33AM,1, Folding Material,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,2, So You Dance,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,3, Storm Tracker,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,4, Zaritzie,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,5, Argentine Queen,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,6, Charge to Bank,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,7, Endless Magic,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,8, Zakia,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,9, Zinedine,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,10, Cavalar,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,11, Hey There,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,12, Without a Shadow,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,13, Suffolk Punch,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,14, Schoona,0
+Friday 30th Aug, Canberra Acton ,4,06:33AM,15, Royalla Beau,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,1, Awesome Time,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,2, Mr Garlandtown,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,3, Zero to Ten,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,4, Impella,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,5, Milly de Vain,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,6, Night Garden,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,7, Oxana,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,8, Tap 'n' Tipple,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,9, Valert,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,10, Cut a Rug,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,11, Lord of the Isles,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,12, Torio Away,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,13, Jack I Am,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,14, Eriphyle,0
+Friday 30th Aug, Canberra Acton ,5,07:10AM,15, Enemy of Smart,0
+Friday 30th Aug, Canberra Acton ,6,07:50AM,1, Your Excellency,17
+Friday 30th Aug, Canberra Acton ,6,07:50AM,2, Coventry,7
+Friday 30th Aug, Canberra Acton ,6,07:50AM,3, Santa Fe Chief,13
+Friday 30th Aug, Canberra Acton ,6,07:50AM,4, Sydney Melody,25
+Friday 30th Aug, Canberra Acton ,6,07:50AM,5, Miss Milan,18
+Friday 30th Aug, Canberra Acton ,6,07:50AM,6, Mr Tangalanga,100
+Friday 30th Aug, Canberra Acton ,6,07:50AM,7, Lunch At Tiffanys,33
+Friday 30th Aug, Canberra Acton ,6,07:50AM,8, Better Man,17
+Friday 30th Aug, Canberra Acton ,6,07:50AM,9, Trofeo,8
+Friday 30th Aug, Canberra Acton ,6,07:50AM,10, Kamiya,6
+Friday 30th Aug, Canberra Acton ,6,07:50AM,11, That's How,7
+Friday 30th Aug, Canberra Acton ,6,07:50AM,12, Bimbi Town,8
+Friday 30th Aug, Canberra Acton ,6,07:50AM,13, Teeitup,6
+Friday 30th Aug, Canberra Acton ,7,08:30AM,1, Roccozar,21
+Friday 30th Aug, Canberra Acton ,7,08:30AM,2, Acta Non Verba,16
+Friday 30th Aug, Canberra Acton ,7,08:30AM,3, Carved in Stone,14
+Friday 30th Aug, Canberra Acton ,7,08:30AM,4, Malambo,7
+Friday 30th Aug, Canberra Acton ,7,08:30AM,5, Double Night,26
+Friday 30th Aug, Canberra Acton ,7,08:30AM,6, Playa,14
+Friday 30th Aug, Canberra Acton ,7,08:30AM,7, Monte Shogun,18
+Friday 30th Aug, Canberra Acton ,7,08:30AM,8, Candy Tuft,19
+Friday 30th Aug, Canberra Acton ,7,08:30AM,9, Peekay,17
+Friday 30th Aug, Canberra Acton ,7,08:30AM,10, Adamant Lass,25
+Friday 30th Aug, Canberra Acton ,7,08:30AM,11, Captain Haddock,23
+Friday 30th Aug, Canberra Acton ,7,08:30AM,12, Manor House,5
+Friday 30th Aug, Canberra Acton ,7,08:30AM,13, Nuns On the Run,12
+Friday 30th Aug, Canberra Acton ,7,08:30AM,14, Salander,21
+Friday 30th Aug, Canberra Acton ,8,09:10AM,1, Chosen Time,12
+Friday 30th Aug, Canberra Acton ,8,09:10AM,2, Salander,21
+Friday 30th Aug, Canberra Acton ,8,09:10AM,3, Doubtful Miss,29
+Friday 30th Aug, Canberra Acton ,8,09:10AM,4, Beyond a Shadow,12
+Friday 30th Aug, Canberra Acton ,8,09:10AM,5, Jersey Shore,11
+Friday 30th Aug, Canberra Acton ,8,09:10AM,6, King Tides In,13
+Friday 30th Aug, Canberra Acton ,8,09:10AM,7, Hey Porter,16
+Friday 30th Aug, Canberra Acton ,8,09:10AM,8, Fast And Thorny,11
+Friday 30th Aug, Canberra Acton ,8,09:10AM,9, Another Grand,13
+Friday 30th Aug, Canberra Acton ,8,09:10AM,10, Kariz,7
+Friday 30th Aug, Canberra Acton ,8,09:10AM,11, Mr Fox,11
+Friday 30th Aug, Canberra Acton ,8,09:10AM,12, Twomenanahorse,14
+Friday 30th Aug, Canberra Acton ,8,09:10AM,13, Zartiki,5
+Friday 30th Aug, Canberra Acton ,8,09:10AM,14, Greenwich Girl,13
+Friday 30th Aug, Canberra Acton ,8,09:10AM,15, Cognac Prince,13
+Friday 30th Aug, Canberra Acton ,8,09:10AM,16, Ocky Vella,8
+Friday 30th Aug, Dubbo ,1,04:58AM,1, Sutton Queen,24
+Friday 30th Aug, Dubbo ,1,04:58AM,2, Murray's Sun,28
+Friday 30th Aug, Dubbo ,1,04:58AM,3, Conroy's Gap,26
+Friday 30th Aug, Dubbo ,1,04:58AM,4, Toranaga,20
+Friday 30th Aug, Dubbo ,1,04:58AM,5, Princess Pachara,28
+Friday 30th Aug, Dubbo ,1,04:58AM,6, Shadow Force,33
+Friday 30th Aug, Dubbo ,2,05:33AM,1, Flip a Coin,0
+Friday 30th Aug, Dubbo ,2,05:33AM,2, Destiny Ruler,0
+Friday 30th Aug, Dubbo ,2,05:33AM,3, Misblueblud,0
+Friday 30th Aug, Dubbo ,2,05:33AM,4, Explorator,0
+Friday 30th Aug, Dubbo ,2,05:33AM,5, All Emotion,0
+Friday 30th Aug, Dubbo ,2,05:33AM,6, Angel's Artillery,0
+Friday 30th Aug, Dubbo ,2,05:33AM,7, Lola's Chateau,0
+Friday 30th Aug, Dubbo ,2,05:33AM,8, Maldicente,0
+Friday 30th Aug, Dubbo ,2,05:33AM,9, Donsgal,0
+Friday 30th Aug, Dubbo ,2,05:33AM,10, Ingoing,0
+Friday 30th Aug, Dubbo ,2,05:33AM,11, Miashly,0
+Friday 30th Aug, Dubbo ,2,05:33AM,12, Mrs Ross,0
+Friday 30th Aug, Dubbo ,2,05:33AM,13, Cash for Kristy,0
+Friday 30th Aug, Dubbo ,2,05:33AM,14, Express Flyer,0
+Friday 30th Aug, Dubbo ,2,05:33AM,15, Little Queen,0
+Friday 30th Aug, Dubbo ,2,05:33AM,16, Scandalicious,0
+Friday 30th Aug, Dubbo ,3,06:08AM,1, Alfie Bee,0
+Friday 30th Aug, Dubbo ,3,06:08AM,2, Beauyoichi,0
+Friday 30th Aug, Dubbo ,3,06:08AM,3, Marple Boy,0
+Friday 30th Aug, Dubbo ,3,06:08AM,4, Rocky Realm,0
+Friday 30th Aug, Dubbo ,3,06:08AM,5, Diamond Court,0
+Friday 30th Aug, Dubbo ,3,06:08AM,6, My Carol,0
+Friday 30th Aug, Dubbo ,3,06:08AM,7, Raasay Rose,0
+Friday 30th Aug, Dubbo ,3,06:08AM,8, Raised for Battle,0
+Friday 30th Aug, Dubbo ,3,06:08AM,9, Sharky,0
+Friday 30th Aug, Dubbo ,3,06:08AM,10, Tread Well,0
+Friday 30th Aug, Dubbo ,3,06:08AM,11, Holly Blue,0
+Friday 30th Aug, Dubbo ,4,06:43AM,1, Steel Academy,8
+Friday 30th Aug, Dubbo ,4,06:43AM,2, He's a Knockout,10
+Friday 30th Aug, Dubbo ,4,06:43AM,3, You Betiwin,20
+Friday 30th Aug, Dubbo ,4,06:43AM,4, Elriz,10
+Friday 30th Aug, Dubbo ,4,06:43AM,5, Snippet Express,7
+Friday 30th Aug, Dubbo ,4,06:43AM,6, Battant Glory,6
+Friday 30th Aug, Dubbo ,4,06:43AM,7, Turkey Hollow,11
+Friday 30th Aug, Dubbo ,4,06:43AM,8, Burley Park,33
+Friday 30th Aug, Dubbo ,4,06:43AM,9, Power Aweigh,14
+Friday 30th Aug, Dubbo ,4,06:43AM,10, Quad,10
+Friday 30th Aug, Dubbo ,4,06:43AM,11, It's Raining,6
+Friday 30th Aug, Dubbo ,4,06:43AM,12, Jayboy,1
+Friday 30th Aug, Dubbo ,4,06:43AM,13, Kingdom of Caid,6
+Friday 30th Aug, Dubbo ,4,06:43AM,14, Little Pinky,7
+Friday 30th Aug, Dubbo ,4,06:43AM,15, Urbane Valour,7
+Friday 30th Aug, Dubbo ,4,06:43AM,16, Five of Hearts,6
+Friday 30th Aug, Dubbo ,5,07:20AM,1, Big City Dreams,0
+Friday 30th Aug, Dubbo ,5,07:20AM,2, George's Mistake,0
+Friday 30th Aug, Dubbo ,5,07:20AM,3, Mouret,0
+Friday 30th Aug, Dubbo ,5,07:20AM,4, Another Miss Pick,0
+Friday 30th Aug, Dubbo ,5,07:20AM,5, Bettabee,0
+Friday 30th Aug, Dubbo ,5,07:20AM,6, Dalstrat,0
+Friday 30th Aug, Dubbo ,5,07:20AM,7, Hello Honey,0
+Friday 30th Aug, Dubbo ,5,07:20AM,8, Her Reflections,0
+Friday 30th Aug, Dubbo ,5,07:20AM,9, Just Good,0
+Friday 30th Aug, Dubbo ,5,07:20AM,10, Miss Haberfield,0
+Friday 30th Aug, Dubbo ,5,07:20AM,11, Out On a Limb,0
+Friday 30th Aug, Dubbo ,5,07:20AM,12, Sobell Gaze,0
+Friday 30th Aug, Dubbo ,5,07:20AM,13, Gosses Bluff,0
+Friday 30th Aug, Dubbo ,5,07:20AM,14, She's Creative,0
+Friday 30th Aug, Dubbo ,6,08:00AM,1, Just Charlie,29
+Friday 30th Aug, Dubbo ,6,08:00AM,2, Bluey's Bolt,22
+Friday 30th Aug, Dubbo ,6,08:00AM,3, Cadel's Luck,8
+Friday 30th Aug, Dubbo ,6,08:00AM,4, Elusion,8
+Friday 30th Aug, Dubbo ,6,08:00AM,5, Ima Secret,11
+Friday 30th Aug, Dubbo ,6,08:00AM,6, Panov,12
+Friday 30th Aug, Dubbo ,6,08:00AM,7, Hellifield,12
+Friday 30th Aug, Dubbo ,6,08:00AM,8, Cardiff Prince,10
+Friday 30th Aug, Dubbo ,6,08:00AM,9, Where Izzy,4
+Friday 30th Aug, Dubbo ,6,08:00AM,10, Judge Smails,13
+Friday 30th Aug, Dubbo ,6,08:00AM,11, Beer Gut,4
+Friday 30th Aug, Dubbo ,6,08:00AM,12, Benny Blue Eyes,10
+Friday 30th Aug, Dubbo ,6,08:00AM,13, Zumba Magic,11
+Friday 30th Aug, Dubbo ,6,08:00AM,14, Lucy O'charlemagne,8
+Friday 30th Aug, Dubbo ,6,08:00AM,15, Commandantree,3
+Friday 30th Aug, Dubbo ,6,08:00AM,16, Haveyaway,7
+Friday 30th Aug, Dubbo ,6,08:00AM,17, Noanoa,13
+Friday 30th Aug, Dubbo ,6,08:00AM,18, Goo Goo,4
+Friday 30th Aug, Dubbo ,7,08:40AM,1, Insurpassable,11
+Friday 30th Aug, Dubbo ,7,08:40AM,2, Treblann,6
+Friday 30th Aug, Dubbo ,7,08:40AM,3, Binesi,10
+Friday 30th Aug, Dubbo ,7,08:40AM,4, Mattimeo,3
+Friday 30th Aug, Dubbo ,7,08:40AM,5, Sinister Sums,3
+Friday 30th Aug, Dubbo ,7,08:40AM,6, Super Esprit,7
+Friday 30th Aug, Dubbo ,7,08:40AM,7, Downton Abbey,33
+Friday 30th Aug, Dubbo ,7,08:40AM,8, What a Racquet,100
+Friday 30th Aug, Dubbo ,7,08:40AM,9, Always Rose,3
+Friday 30th Aug, Dubbo ,7,08:40AM,10, Five of Hearts,6
+Friday 30th Aug, Dubbo ,7,08:40AM,11, Outrageous Deal,50
+Friday 30th Aug, Dubbo ,8,09:20AM,1, Whispering Gap,18
+Friday 30th Aug, Dubbo ,8,09:20AM,2, Miss Ta Ta,19
+Friday 30th Aug, Dubbo ,8,09:20AM,3, Gokstad,12
+Friday 30th Aug, Dubbo ,8,09:20AM,4, Conch,15
+Friday 30th Aug, Dubbo ,8,09:20AM,5, Khamsin Warrior,11
+Friday 30th Aug, Dubbo ,8,09:20AM,6, Final Conflict,14
+Friday 30th Aug, Dubbo ,8,09:20AM,7, Lucky Murphy,25
+Friday 30th Aug, Dubbo ,8,09:20AM,8, Canny Koru,7
+Friday 30th Aug, Dubbo ,8,09:20AM,9, Louis the Tonne,17
+Friday 30th Aug, Ipswich ,1,05:05AM,1, Red Hot de Lago,0
+Friday 30th Aug, Ipswich ,1,05:05AM,2, Wine By the Glass,0
+Friday 30th Aug, Ipswich ,1,05:05AM,3, How Sweet,0
+Friday 30th Aug, Ipswich ,1,05:05AM,4, Seek My Fortune,0
+Friday 30th Aug, Ipswich ,1,05:05AM,5, Chosen Court,0
+Friday 30th Aug, Ipswich ,1,05:05AM,6, Creditable,0
+Friday 30th Aug, Ipswich ,1,05:05AM,7, Miss Typin,0
+Friday 30th Aug, Ipswich ,1,05:05AM,8, Coronation Queen,0
+Friday 30th Aug, Ipswich ,2,05:40AM,1, Ardrova,0
+Friday 30th Aug, Ipswich ,2,05:40AM,2, Korta,0
+Friday 30th Aug, Ipswich ,2,05:40AM,3, Heritage Listed,0
+Friday 30th Aug, Ipswich ,2,05:40AM,4, Bless This Rose,0
+Friday 30th Aug, Ipswich ,2,05:40AM,5, Grazio,0
+Friday 30th Aug, Ipswich ,2,05:40AM,6, Java Bay,0
+Friday 30th Aug, Ipswich ,2,05:40AM,7, Million Kisses,0
+Friday 30th Aug, Ipswich ,2,05:40AM,8, Miss Mookychick,0
+Friday 30th Aug, Ipswich ,3,06:15AM,1, Dane Victory,0
+Friday 30th Aug, Ipswich ,3,06:15AM,2, Go As You Please,0
+Friday 30th Aug, Ipswich ,3,06:15AM,3, Maravagi,0
+Friday 30th Aug, Ipswich ,3,06:15AM,4, Morven,0
+Friday 30th Aug, Ipswich ,3,06:15AM,5, Beautiful Sound,0
+Friday 30th Aug, Ipswich ,3,06:15AM,6, Eternal Heart,0
+Friday 30th Aug, Ipswich ,3,06:15AM,7, Miss Shanchel,0
+Friday 30th Aug, Ipswich ,3,06:15AM,8, Royal Enchantress,0
+Friday 30th Aug, Ipswich ,3,06:15AM,9, Sundae Dreamin',0
+Friday 30th Aug, Ipswich ,4,06:50AM,1, Samaxamia,10
+Friday 30th Aug, Ipswich ,4,06:50AM,2, Major Showdown,14
+Friday 30th Aug, Ipswich ,4,06:50AM,3, Stradivari Miss,8
+Friday 30th Aug, Ipswich ,4,06:50AM,4, Glenaroua,9
+Friday 30th Aug, Ipswich ,4,06:50AM,5, Royal Reward,10
+Friday 30th Aug, Ipswich ,4,06:50AM,6, Bianco Boy,11
+Friday 30th Aug, Ipswich ,4,06:50AM,7, Dekarnage,3
+Friday 30th Aug, Ipswich ,4,06:50AM,8, Irishlady Millions,7
+Friday 30th Aug, Ipswich ,5,07:30AM,1, Masakari,11
+Friday 30th Aug, Ipswich ,5,07:30AM,2, Nobody's Boy,14
+Friday 30th Aug, Ipswich ,5,07:30AM,3, Rip Rip Woodchip,13
+Friday 30th Aug, Ipswich ,5,07:30AM,4, River Blues,20
+Friday 30th Aug, Ipswich ,5,07:30AM,5, Navy Chic,10
+Friday 30th Aug, Ipswich ,5,07:30AM,6, Mim,17
+Friday 30th Aug, Ipswich ,5,07:30AM,7, Grandin,20
+Friday 30th Aug, Ipswich ,5,07:30AM,8, Smart Cookie,4
+Friday 30th Aug, Ipswich ,6,08:10AM,1, Substation,14
+Friday 30th Aug, Ipswich ,6,08:10AM,2, Pure Shores,14
+Friday 30th Aug, Ipswich ,6,08:10AM,3, Moment of Impact,22
+Friday 30th Aug, Ipswich ,6,08:10AM,4, Rock Beauty,20
+Friday 30th Aug, Ipswich ,6,08:10AM,5, Kristrom,10
+Friday 30th Aug, Ipswich ,6,08:10AM,6, Banchory Lass,10
+Friday 30th Aug, Ipswich ,6,08:10AM,7, Don't Tell Cyril,13
+Friday 30th Aug, Ipswich ,6,08:10AM,8, Bee Plus,8
+Friday 30th Aug, Ipswich ,6,08:10AM,9, Express Warrior,7
+Friday 30th Aug, Ipswich ,6,08:10AM,10, Placid Host,13
+Friday 30th Aug, Ipswich ,7,08:50AM,1, Wonderful Jester,18
+Friday 30th Aug, Ipswich ,7,08:50AM,2, Nuits St Georges,16
+Friday 30th Aug, Ipswich ,7,08:50AM,3, Magic Shuffle,14
+Friday 30th Aug, Ipswich ,7,08:50AM,4, Higher Order,14
+Friday 30th Aug, Ipswich ,7,08:50AM,5, A Shade Better,9
+Friday 30th Aug, Ipswich ,7,08:50AM,6, O'grady,11
+Friday 30th Aug, Ipswich ,7,08:50AM,7, Line of Conflict,18
+Friday 30th Aug, Ipswich ,7,08:50AM,8, Alkiori,13
+Friday 30th Aug, Ipswich ,7,08:50AM,9, Better Later,17
+Friday 30th Aug, Ipswich ,7,08:50AM,10, Acting King,22
+Friday 30th Aug, Ipswich ,7,08:50AM,11, Crazy Ways,8
+Friday 30th Aug, Ipswich ,7,08:50AM,12, Raunchy's Warrior,18
+Friday 30th Aug, Ipswich ,7,08:50AM,13, Saveeda,11
+Friday 30th Aug, Mildura ,1,04:40AM,1, Leaping Leroy,9
+Friday 30th Aug, Mildura ,1,04:40AM,2, Prymslea,9
+Friday 30th Aug, Mildura ,1,04:40AM,3, Alfal,13
+Friday 30th Aug, Mildura ,1,04:40AM,4, Fosseding Barnes,8
+Friday 30th Aug, Mildura ,1,04:40AM,5, Moon Aura,7
+Friday 30th Aug, Mildura ,1,04:40AM,6, Command the Right,3
+Friday 30th Aug, Mildura ,1,04:40AM,7, Chasing Drama,0
+Friday 30th Aug, Mildura ,2,05:15AM,1, Balliang Lad,0
+Friday 30th Aug, Mildura ,2,05:15AM,2, Goes Bellistic,0
+Friday 30th Aug, Mildura ,2,05:15AM,3, Invasion,0
+Friday 30th Aug, Mildura ,2,05:15AM,4, Lachie's a Star,0
+Friday 30th Aug, Mildura ,2,05:15AM,5, Street Justice,0
+Friday 30th Aug, Mildura ,2,05:15AM,6, Tame That Possum,0
+Friday 30th Aug, Mildura ,2,05:15AM,7, Tyre Thief,0
+Friday 30th Aug, Mildura ,2,05:15AM,8, All for Love,0
+Friday 30th Aug, Mildura ,2,05:15AM,9, Devil's Vibe,0
+Friday 30th Aug, Mildura ,2,05:15AM,10, Skip the Faith,0
+Friday 30th Aug, Mildura ,2,05:15AM,11, Zupaflirt,0
+Friday 30th Aug, Mildura ,3,05:50AM,1, Bah Hum Bug,0
+Friday 30th Aug, Mildura ,3,05:50AM,2, Dane Ace,0
+Friday 30th Aug, Mildura ,3,05:50AM,3, Dapper Dan,0
+Friday 30th Aug, Mildura ,3,05:50AM,4, From the Grave,0
+Friday 30th Aug, Mildura ,3,05:50AM,5, Tensai,0
+Friday 30th Aug, Mildura ,3,05:50AM,6, The Unexpected,0
+Friday 30th Aug, Mildura ,3,05:50AM,7, Blushing Royale,0
+Friday 30th Aug, Mildura ,3,05:50AM,8, Fal Sun,0
+Friday 30th Aug, Mildura ,3,05:50AM,9, Napthine,0
+Friday 30th Aug, Mildura ,3,05:50AM,10, Talisman Crown,0
+Friday 30th Aug, Mildura ,3,05:50AM,11, What's Up Sun,0
+Friday 30th Aug, Mildura ,4,06:25AM,1, Amber Dawn,0
+Friday 30th Aug, Mildura ,4,06:25AM,2, Inlaws,0
+Friday 30th Aug, Mildura ,4,06:25AM,3, Jenibec,0
+Friday 30th Aug, Mildura ,4,06:25AM,4, Mrs Begley,0
+Friday 30th Aug, Mildura ,4,06:25AM,5, Rocktruder,0
+Friday 30th Aug, Mildura ,4,06:25AM,6, Sandhill Dancer,0
+Friday 30th Aug, Mildura ,4,06:25AM,7, Smithereens,0
+Friday 30th Aug, Mildura ,4,06:25AM,8, Tesselaar,0
+Friday 30th Aug, Mildura ,4,06:25AM,9, Trente,0
+Friday 30th Aug, Mildura ,4,06:25AM,10, Go Girlfriend,0
+Friday 30th Aug, Mildura ,4,06:25AM,11, Interlude,0
+Friday 30th Aug, Mildura ,4,06:25AM,12, Melaleuca,0
+Friday 30th Aug, Mildura ,4,06:25AM,13, Certain Dee,0
+Friday 30th Aug, Mildura ,5,07:00AM,1, Eudoxia,12
+Friday 30th Aug, Mildura ,5,07:00AM,2, Royal Scandal,18
+Friday 30th Aug, Mildura ,5,07:00AM,3, Millie's Mann,33
+Friday 30th Aug, Mildura ,5,07:00AM,4, Halo Dot Com,11
+Friday 30th Aug, Mildura ,5,07:00AM,5, Julia Jean,15
+Friday 30th Aug, Mildura ,5,07:00AM,6, Summers Day,18
+Friday 30th Aug, Mildura ,5,07:00AM,7, Lady Davinci,8
+Friday 30th Aug, Mildura ,6,07:40AM,1, Believe Me,0
+Friday 30th Aug, Mildura ,6,07:40AM,2, Imagine Peace,50
+Friday 30th Aug, Mildura ,6,07:40AM,3, The Bronx,20
+Friday 30th Aug, Mildura ,6,07:40AM,4, Bold Senator,0
+Friday 30th Aug, Mildura ,6,07:40AM,5, Brazen Soldier,0
+Friday 30th Aug, Mildura ,6,07:40AM,6, Jennyfromtheblock,20
+Friday 30th Aug, Mildura ,6,07:40AM,7, Refulgent,0
+Friday 30th Aug, Mildura ,6,07:40AM,8, Newspaper,0
+Friday 30th Aug, Mildura ,6,07:40AM,9, Snitzilla,0
+Friday 30th Aug, Mildura ,7,08:20AM,1, Dubai King,25
+Friday 30th Aug, Mildura ,7,08:20AM,2, Edge of Storm,7
+Friday 30th Aug, Mildura ,7,08:20AM,3, Star of Choisir,5
+Friday 30th Aug, Mildura ,7,08:20AM,4, Audacity,8
+Friday 30th Aug, Mildura ,7,08:20AM,5, Munderoo,13
+Friday 30th Aug, Mildura ,7,08:20AM,6, Bel Gold,14
+Friday 30th Aug, Mildura ,7,08:20AM,7, Soul of Gold,10
+Friday 30th Aug, Mildura ,7,08:20AM,8, Celebrity Psychic,9
+Friday 30th Aug, Mildura ,7,08:20AM,9, Oblaque,6
+Friday 30th Aug, Mildura ,7,08:20AM,10, Potluck,8
+Friday 30th Aug, Mildura ,7,08:20AM,11, Vavavic,13
+Friday 30th Aug, Mildura ,7,08:20AM,12, Hello Bombshell,11
+Friday 30th Aug, Mildura ,7,08:20AM,13, Kyby Lady,8
+Friday 30th Aug, Mildura ,7,08:20AM,14, Fill the Fridge,12
+Friday 30th Aug, Mildura ,7,08:20AM,15, Tearjerker,8
+Friday 30th Aug, Mildura ,8,09:00AM,1, Our Nkwazi,24
+Friday 30th Aug, Mildura ,8,09:00AM,2, Offshore Echo,16
+Friday 30th Aug, Mildura ,8,09:00AM,3, Leveraction,19
+Friday 30th Aug, Mildura ,8,09:00AM,4, Timely Truce,11
+Friday 30th Aug, Mildura ,8,09:00AM,5, Coroico,22
+Friday 30th Aug, Mildura ,8,09:00AM,6, Ferocious One,29
+Friday 30th Aug, Mildura ,8,09:00AM,7, Sort This Out,15
+Friday 30th Aug, Mildura ,8,09:00AM,8, Shadow Tales,16
+Friday 30th Aug, Mildura ,8,09:00AM,9, Ekibuuka,19
+Friday 30th Aug, Mildura ,8,09:00AM,10, Murray Star,17
+Friday 30th Aug, Mildura ,8,09:00AM,11, Master Houdini,12
+Friday 30th Aug, Ashburton ,1,02:15AM,1, Additup,18
+Friday 30th Aug, Ashburton ,1,02:15AM,2, Spare A Fortune,14
+Friday 30th Aug, Ashburton ,1,02:15AM,3, Coat Of Arms,12
+Friday 30th Aug, Ashburton ,1,02:15AM,4, Fiddler's Green,14
+Friday 30th Aug, Ashburton ,1,02:15AM,5, Gold 'n Cash,33
+Friday 30th Aug, Ashburton ,1,02:15AM,6, Windwhistle,16
+Friday 30th Aug, Ashburton ,1,02:15AM,7, Pazejan,14
+Friday 30th Aug, Ashburton ,1,02:15AM,8, Pycok Flyer,13
+Friday 30th Aug, Ashburton ,1,02:15AM,9, Lakers Bay,15
+Friday 30th Aug, Ashburton ,2,02:50AM,1, Homeland,0
+Friday 30th Aug, Ashburton ,2,02:50AM,2, Bomb,0
+Friday 30th Aug, Ashburton ,2,02:50AM,3, Danske In Time,0
+Friday 30th Aug, Ashburton ,2,02:50AM,4, Escondido,0
+Friday 30th Aug, Ashburton ,2,02:50AM,5, Not Court,0
+Friday 30th Aug, Ashburton ,2,02:50AM,6, Vindication,0
+Friday 30th Aug, Ashburton ,2,02:50AM,7, Beautiful Beast,0
+Friday 30th Aug, Ashburton ,2,02:50AM,8, Allstars,0
+Friday 30th Aug, Ashburton ,2,02:50AM,9, Milliondollarmadam,0
+Friday 30th Aug, Ashburton ,2,02:50AM,10, Lukander,0
+Friday 30th Aug, Ashburton ,2,02:50AM,11, Silhouette Noire,0
+Friday 30th Aug, Ashburton ,3,03:25AM,1, Bowling Boy,18
+Friday 30th Aug, Ashburton ,3,03:25AM,2, Miss El Bee Dee,11
+Friday 30th Aug, Ashburton ,3,03:25AM,3, Light's Up,16
+Friday 30th Aug, Ashburton ,3,03:25AM,4, Zah Girl,19
+Friday 30th Aug, Ashburton ,3,03:25AM,5, Oraka Prince,14
+Friday 30th Aug, Ashburton ,3,03:25AM,6, Davone Code,10
+Friday 30th Aug, Ashburton ,3,03:25AM,7, Ishigold,10
+Friday 30th Aug, Ashburton ,4,04:00AM,1, Do Uno Whoiam,25
+Friday 30th Aug, Ashburton ,4,04:00AM,2, Snowdon,13
+Friday 30th Aug, Ashburton ,4,04:00AM,3, Mr Costa Cugat,33
+Friday 30th Aug, Ashburton ,4,04:00AM,4, Terelle,5
+Friday 30th Aug, Ashburton ,4,04:00AM,5, Black Savvath,8
+Friday 30th Aug, Ashburton ,4,04:00AM,6, Tricatchme,2
+Friday 30th Aug, Ashburton ,4,04:00AM,7, Vaporetto,33
+Friday 30th Aug, Ashburton ,4,04:00AM,8, Really Rusty,11
+Friday 30th Aug, Ashburton ,4,04:00AM,9, Moneyorthebox,8
+Friday 30th Aug, Ashburton ,4,04:00AM,10, Lets Talk Gold,6
+Friday 30th Aug, Ashburton ,4,04:00AM,11, Fly My Pretty,6
+Friday 30th Aug, Ashburton ,5,04:36AM,1, Dunroamin,0
+Friday 30th Aug, Ashburton ,5,04:36AM,2, Prince Eden,0
+Friday 30th Aug, Ashburton ,5,04:36AM,3, Just Bolting,0
+Friday 30th Aug, Ashburton ,5,04:36AM,4, Ashbury Jack,0
+Friday 30th Aug, Ashburton ,5,04:36AM,5, Enchanter,0
+Friday 30th Aug, Ashburton ,5,04:36AM,6, Grey Tom,0
+Friday 30th Aug, Ashburton ,5,04:36AM,7, Starquest,0
+Friday 30th Aug, Ashburton ,5,04:36AM,8, D'Ellis,0
+Friday 30th Aug, Ashburton ,5,04:36AM,9, Lady Privateer,0
+Friday 30th Aug, Ashburton ,5,04:36AM,10, Waitin Awhile,0
+Friday 30th Aug, Ashburton ,5,04:36AM,11, Samphire,0
+Friday 30th Aug, Ashburton ,5,04:36AM,12, Bonny Spring,0
+Friday 30th Aug, Ashburton ,5,04:36AM,13, French Lesson,0
+Friday 30th Aug, Ashburton ,5,04:36AM,14, Nancho Lass,0
+Friday 30th Aug, Ashburton ,5,04:36AM,15, She's Riveting,0
+Friday 30th Aug, Ashburton ,6,05:11AM,1, Conscious Mistake,16
+Friday 30th Aug, Ashburton ,6,05:11AM,2, Voodoo,18
+Friday 30th Aug, Ashburton ,6,05:11AM,3, Stormpatrol,15
+Friday 30th Aug, Ashburton ,6,05:11AM,4, The Hand Of Faith,14
+Friday 30th Aug, Ashburton ,6,05:11AM,5, Elusive Tracy,16
+Friday 30th Aug, Ashburton ,6,05:11AM,6, Rewa,38
+Friday 30th Aug, Ashburton ,7,05:46AM,1, Lakers Bay,15
+Friday 30th Aug, Ashburton ,7,05:46AM,2, Our Jackman,13
+Friday 30th Aug, Ashburton ,7,05:46AM,3, Keeparunnin,14
+Friday 30th Aug, Ashburton ,7,05:46AM,4, Swami,14
+Friday 30th Aug, Ashburton ,7,05:46AM,5, Astrogal,11
+Friday 30th Aug, Ashburton ,7,05:46AM,6, Elusive Law,13
+Friday 30th Aug, Ashburton ,7,05:46AM,7, Kina Win,11
+Friday 30th Aug, Ashburton ,7,05:46AM,8, Pinaz,13
+Friday 30th Aug, Ashburton ,7,05:46AM,9, Tallyho Tui,8
+Friday 30th Aug, Ashburton ,7,05:46AM,10, She's Assertive,25
+Friday 30th Aug, Ashburton ,7,05:46AM,11, Halo Buster,9
+Friday 30th Aug, Ashburton ,7,05:46AM,12, The Chifney Rush,11
+Friday 30th Aug, Ashburton ,7,05:46AM,13, Pennys From Heaven,33
+Friday 30th Aug, Ashburton ,7,05:46AM,14, Please Release Me,11
+Friday 30th Aug, Ashburton ,7,05:46AM,15, Happy Days,20
+Friday 30th Aug, Ashburton ,7,05:46AM,16, Remind Me,13
+Friday 30th Aug, Ashburton ,8,06:21AM,1, Ask My Wife,16
+Friday 30th Aug, Ashburton ,8,06:21AM,2, Gossip Girl,8
+Friday 30th Aug, Ashburton ,8,06:21AM,3, Kerrytown Lady,12
+Friday 30th Aug, Ashburton ,8,06:21AM,4, Black Stockings,20
+Friday 30th Aug, Ashburton ,8,06:21AM,5, Flying Legend,15
+Friday 30th Aug, Ashburton ,8,06:21AM,6, China Bo Bo,7
+Friday 30th Aug, Ashburton ,8,06:21AM,7, Jimato,8
+Friday 30th Aug, Ashburton ,8,06:21AM,8, Ballyrina,6
+Friday 30th Aug, Ashburton ,8,06:21AM,9, Logan Town,4
+Friday 30th Aug, Ashburton ,8,06:21AM,10, Something Zed,0
+Friday 30th Aug, Chester ,1,03:00PM,1, Arrowzone,0
+Friday 30th Aug, Chester ,1,03:00PM,2, Bow Creek,0
+Friday 30th Aug, Chester ,1,03:00PM,3, Haayil,0
+Friday 30th Aug, Chester ,1,03:00PM,4, Mountain Lion,0
+Friday 30th Aug, Chester ,1,03:00PM,5, Mukaynis,0
+Friday 30th Aug, Chester ,1,03:00PM,6, Rasameel,0
+Friday 30th Aug, Chester ,1,03:00PM,7, Right Behind You,0
+Friday 30th Aug, Chester ,1,03:00PM,8, Samtu,0
+Friday 30th Aug, Chester ,1,03:00PM,9, Yenhaab,0
+Friday 30th Aug, Chester ,2,03:30PM,1, Annawi,0
+Friday 30th Aug, Chester ,2,03:30PM,2, Come On Flo,0
+Friday 30th Aug, Chester ,2,03:30PM,3, Conserve,0
+Friday 30th Aug, Chester ,2,03:30PM,4, Ella Motiva,0
+Friday 30th Aug, Chester ,2,03:30PM,5, Empress Adelaide,0
+Friday 30th Aug, Chester ,2,03:30PM,6, Evermore,0
+Friday 30th Aug, Chester ,2,03:30PM,7, Madame Elizabeth,0
+Friday 30th Aug, Chester ,2,03:30PM,8, Perfect Summer,0
+Friday 30th Aug, Chester ,2,03:30PM,9, Sharareh,0
+Friday 30th Aug, Chester ,2,03:30PM,10, Snow Powder,0
+Friday 30th Aug, Chester ,2,03:30PM,11, Vicksburg,0
+Friday 30th Aug, Chester ,3,04:00PM,1, Chosen Character,19
+Friday 30th Aug, Chester ,3,04:00PM,2, Dr Red Eye,15
+Friday 30th Aug, Chester ,3,04:00PM,3, The Confessor,19
+Friday 30th Aug, Chester ,3,04:00PM,4, Zacynthus,15
+Friday 30th Aug, Chester ,3,04:00PM,5, Yair Hill,17
+Friday 30th Aug, Chester ,3,04:00PM,6, Laffan,24
+Friday 30th Aug, Chester ,3,04:00PM,7, Secret Look,27
+Friday 30th Aug, Chester ,3,04:00PM,8, Sir Reginald,11
+Friday 30th Aug, Chester ,3,04:00PM,9, King Of Eden,21
+Friday 30th Aug, Chester ,3,04:00PM,10, Piscean,16
+Friday 30th Aug, Chester ,3,04:00PM,11, Snow Bay,19
+Friday 30th Aug, Chester ,3,04:00PM,12, Rusty Rocket,20
+Friday 30th Aug, Chester ,3,04:00PM,13, Verse Of Love,17
+Friday 30th Aug, Chester ,3,04:00PM,14, Xilerator,14
+Friday 30th Aug, Chester ,4,04:35PM,1, Yarroom,25
+Friday 30th Aug, Chester ,4,04:35PM,2, Mulakim,50
+Friday 30th Aug, Chester ,4,04:35PM,3, Velox,25
+Friday 30th Aug, Chester ,4,04:35PM,4, Pitchoun,25
+Friday 30th Aug, Chester ,4,04:35PM,5, Sadiq,40
+Friday 30th Aug, Chester ,4,04:35PM,6, Ningara,38
+Friday 30th Aug, Chester ,4,04:35PM,7, Rocket Ronnie,29
+Friday 30th Aug, Chester ,4,04:35PM,8, Phaenomena,25
+Friday 30th Aug, Chester ,4,04:35PM,9, Topamichi,38
+Friday 30th Aug, Chester ,5,05:05PM,1, Fair Ranger,33
+Friday 30th Aug, Chester ,5,05:05PM,2, Intermath,20
+Friday 30th Aug, Chester ,5,05:05PM,3, Party Ruler,14
+Friday 30th Aug, Chester ,5,05:05PM,4, Nezar,33
+Friday 30th Aug, Chester ,5,05:05PM,5, Split Rock,14
+Friday 30th Aug, Chester ,5,05:05PM,6, Know Your Name,17
+Friday 30th Aug, Chester ,5,05:05PM,7, Our Gabrial,0
+Friday 30th Aug, Chester ,5,05:05PM,8, Hulcolt,0
+Friday 30th Aug, Chester ,6,05:40PM,1, Moidore,19
+Friday 30th Aug, Chester ,6,05:40PM,2, Softsong,13
+Friday 30th Aug, Chester ,6,05:40PM,3, Platinum,24
+Friday 30th Aug, Chester ,6,05:40PM,4, Sir Bedivere,17
+Friday 30th Aug, Chester ,6,05:40PM,5, Twelve Strings,21
+Friday 30th Aug, Chester ,6,05:40PM,6, Zenafire,17
+Friday 30th Aug, Chester ,6,05:40PM,7, Kashgar,20
+Friday 30th Aug, Chester ,6,05:40PM,8, Statutory,20
+Friday 30th Aug, Chester ,7,06:15PM,1, Elusive Hawk,21
+Friday 30th Aug, Chester ,7,06:15PM,2, Docofthebay,10
+Friday 30th Aug, Chester ,7,06:15PM,3, Dream Walker,18
+Friday 30th Aug, Chester ,7,06:15PM,4, Barwick,11
+Friday 30th Aug, Chester ,7,06:15PM,5, Kyllachy Star,11
+Friday 30th Aug, Chester ,7,06:15PM,6, One Scoop Or Two,13
+Friday 30th Aug, Chester ,7,06:15PM,7, My Single Malt,7
+Friday 30th Aug, Chester ,7,06:15PM,8, Ferdy,12
+Friday 30th Aug, Chester ,7,06:15PM,9, Silvas Romana,13
+Friday 30th Aug, Chester ,7,06:15PM,10, See Clearly,9
+Friday 30th Aug, Chester ,7,06:15PM,11, Capitol Gain,15
+Friday 30th Aug, Chester ,7,06:15PM,12, Piceno,10
+Friday 30th Aug, Chester ,7,06:15PM,13, Ralphy Boy,19
+Friday 30th Aug, Chester ,7,06:15PM,14, Viva Ronaldo,12
+Friday 30th Aug, Down Royal ,1,05:35PM,1, Knightsone,20
+Friday 30th Aug, Down Royal ,1,05:35PM,2, Spacious Sky,14
+Friday 30th Aug, Down Royal ,1,05:35PM,3, Wot A Shot,5
+Friday 30th Aug, Down Royal ,1,05:35PM,4, Desert Roe,0
+Friday 30th Aug, Down Royal ,1,05:35PM,5, Hello Humpfrey,0
+Friday 30th Aug, Down Royal ,1,05:35PM,6, Point Of Rescue,0
+Friday 30th Aug, Down Royal ,1,05:35PM,7, Dayrina,0
+Friday 30th Aug, Down Royal ,1,05:35PM,8, Sue And Isi,0
+Friday 30th Aug, Down Royal ,2,06:05PM,1, Dancin' Glory,10
+Friday 30th Aug, Down Royal ,2,06:05PM,2, Lady Bennett,14
+Friday 30th Aug, Down Royal ,2,06:05PM,3, Cabra Cruizor,17
+Friday 30th Aug, Down Royal ,2,06:05PM,4, Faustina Pius,0
+Friday 30th Aug, Down Royal ,2,06:05PM,5, Golden Diva,0
+Friday 30th Aug, Down Royal ,2,06:05PM,6, Kauto Mill Rose,0
+Friday 30th Aug, Down Royal ,2,06:05PM,7, Kims Fancy,0
+Friday 30th Aug, Down Royal ,2,06:05PM,8, Kinnacally,0
+Friday 30th Aug, Down Royal ,2,06:05PM,9, Maggie Byrne,0
+Friday 30th Aug, Down Royal ,2,06:05PM,10, May Dullea,0
+Friday 30th Aug, Down Royal ,2,06:05PM,11, Send For Mary,0
+Friday 30th Aug, Down Royal ,2,06:05PM,12, The Fitz Lady,0
+Friday 30th Aug, Down Royal ,2,06:05PM,13, Rhinestone Cowgirl,0
+Friday 30th Aug, Down Royal ,3,06:35PM,1, Zemario,7
+Friday 30th Aug, Down Royal ,3,06:35PM,2, I Am Great,0
+Friday 30th Aug, Down Royal ,3,06:35PM,3, King Cruiser,0
+Friday 30th Aug, Down Royal ,3,06:35PM,4, Lord Of Isenay,0
+Friday 30th Aug, Down Royal ,3,06:35PM,5, What About Harry,0
+Friday 30th Aug, Down Royal ,3,06:35PM,6, Dromdeals Princess,20
+Friday 30th Aug, Down Royal ,3,06:35PM,7, Fresh By Nature,0
+Friday 30th Aug, Down Royal ,3,06:35PM,8, Lilly The Lioness,0
+Friday 30th Aug, Down Royal ,3,06:35PM,9, Nifty Lass,0
+Friday 30th Aug, Down Royal ,4,07:05PM,1, Bob Le Beau,23
+Friday 30th Aug, Down Royal ,4,07:05PM,2, Hidden Future,7
+Friday 30th Aug, Down Royal ,4,07:05PM,3, Moveable Asset,6
+Friday 30th Aug, Down Royal ,4,07:05PM,4, Westhaven,12
+Friday 30th Aug, Down Royal ,4,07:05PM,5, Fatcatinthehat,20
+Friday 30th Aug, Down Royal ,5,07:35PM,1, Hot Prospect,11
+Friday 30th Aug, Down Royal ,5,07:35PM,2, Royal Sam,5
+Friday 30th Aug, Down Royal ,5,07:35PM,3, Ancient Sands,8
+Friday 30th Aug, Down Royal ,5,07:35PM,4, City Line,0
+Friday 30th Aug, Down Royal ,5,07:35PM,5, Trans City,5
+Friday 30th Aug, Down Royal ,5,07:35PM,6, Mac Tigue,0
+Friday 30th Aug, Down Royal ,5,07:35PM,7, Carpet Elegance,7
+Friday 30th Aug, Down Royal ,5,07:35PM,8, Chinook Run,5
+Friday 30th Aug, Down Royal ,5,07:35PM,9, Four Wives,0
+Friday 30th Aug, Down Royal ,5,07:35PM,10, Native Palm,0
+Friday 30th Aug, Down Royal ,5,07:35PM,11, Annakrista,25
+Friday 30th Aug, Down Royal ,5,07:35PM,12, Lapse Of Reason,8
+Friday 30th Aug, Down Royal ,5,07:35PM,13, Acclaimed Piper,0
+Friday 30th Aug, Down Royal ,5,07:35PM,14, Academic Accolade,3
+Friday 30th Aug, Down Royal ,5,07:35PM,15, On The Loose,14
+Friday 30th Aug, Down Royal ,6,08:05PM,1, Katys Girl,6
+Friday 30th Aug, Down Royal ,6,08:05PM,2, Harangue,12
+Friday 30th Aug, Down Royal ,6,08:05PM,3, The Ice Factor,25
+Friday 30th Aug, Down Royal ,6,08:05PM,4, Corr Point,20
+Friday 30th Aug, Down Royal ,6,08:05PM,5, Rising Altitude,10
+Friday 30th Aug, Down Royal ,6,08:05PM,6, Substitute,4
+Friday 30th Aug, Down Royal ,6,08:05PM,7, Status Update,7
+Friday 30th Aug, Down Royal ,6,08:05PM,8, Private Story,7
+Friday 30th Aug, Down Royal ,6,08:05PM,9, Street Runner,10
+Friday 30th Aug, Down Royal ,6,08:05PM,10, Presenting Kate,6
+Friday 30th Aug, Down Royal ,6,08:05PM,12, Carlyan,0
+Friday 30th Aug, Down Royal ,6,08:05PM,13, Carmels Boy,9
+Friday 30th Aug, Down Royal ,7,08:35PM,1, Ardo Boy,0
+Friday 30th Aug, Down Royal ,7,08:35PM,2, Burn The Moss,0
+Friday 30th Aug, Down Royal ,7,08:35PM,3, Everlasting Spring,0
+Friday 30th Aug, Down Royal ,7,08:35PM,4, Fear Of Fifty,0
+Friday 30th Aug, Down Royal ,7,08:35PM,5, Intheolddays,0
+Friday 30th Aug, Down Royal ,7,08:35PM,6, Marmaladeskies,0
+Friday 30th Aug, Down Royal ,7,08:35PM,7, Mill Forge,0
+Friday 30th Aug, Down Royal ,7,08:35PM,8, Presenting Beara,0
+Friday 30th Aug, Down Royal ,7,08:35PM,9, Ri Na Heireann,0
+Friday 30th Aug, Down Royal ,7,08:35PM,10, Thornfield,0
+Friday 30th Aug, Down Royal ,7,08:35PM,11, Blueberry Hill,0
+Friday 30th Aug, Down Royal ,7,08:35PM,12, Myles Ahead,0
+Friday 30th Aug, Down Royal ,7,08:35PM,13, Lindas Choice,0
+Friday 30th Aug, Down Royal ,7,08:35PM,14, Spring Rose,0
+Friday 30th Aug, Down Royal ,7,08:35PM,15, Our Milly Acres,0
+Friday 30th Aug, Down Royal ,7,08:35PM,16, Red Flight,0
+Friday 30th Aug, Salisbury ,1,05:30PM,1, Jewelled,12
+Friday 30th Aug, Salisbury ,1,05:30PM,2, Space War,11
+Friday 30th Aug, Salisbury ,1,05:30PM,3, Beauchamp Xerxes,11
+Friday 30th Aug, Salisbury ,1,05:30PM,4, Shifting Star,11
+Friday 30th Aug, Salisbury ,1,05:30PM,5, Mahadee,18
+Friday 30th Aug, Salisbury ,1,05:30PM,6, Uncle Dermot,6
+Friday 30th Aug, Salisbury ,1,05:30PM,7, Duke Of Destiny,17
+Friday 30th Aug, Salisbury ,1,05:30PM,8, Lutine Charlie,12
+Friday 30th Aug, Salisbury ,1,05:30PM,9, Kilburn,17
+Friday 30th Aug, Salisbury ,1,05:30PM,10, Delightful Sleep,7
+Friday 30th Aug, Salisbury ,1,05:30PM,11, Saint Irene,7
+Friday 30th Aug, Salisbury ,1,05:30PM,12, Takitwo,11
+Friday 30th Aug, Salisbury ,1,05:30PM,13, Rapid Water,7
+Friday 30th Aug, Salisbury ,1,05:30PM,14, Silver Marizah,0
+Friday 30th Aug, Salisbury ,2,06:10PM,1, Desert Ace,0
+Friday 30th Aug, Salisbury ,2,06:10PM,2, Arranger,0
+Friday 30th Aug, Salisbury ,2,06:10PM,3, Smidgen,0
+Friday 30th Aug, Salisbury ,2,06:10PM,4, Nakuti,0
+Friday 30th Aug, Salisbury ,2,06:10PM,5, Tanojin,0
+Friday 30th Aug, Salisbury ,2,06:10PM,6, Dream Impossible,0
+Friday 30th Aug, Salisbury ,2,06:10PM,7, Katja,0
+Friday 30th Aug, Salisbury ,2,06:10PM,8, Our Duchess,0
+Friday 30th Aug, Salisbury ,2,06:10PM,9, Tides Reach,0
+Friday 30th Aug, Salisbury ,3,06:45PM,1, Baker Man,0
+Friday 30th Aug, Salisbury ,3,06:45PM,2, Fisher Lane,0
+Friday 30th Aug, Salisbury ,3,06:45PM,3, Go For Broke,0
+Friday 30th Aug, Salisbury ,3,06:45PM,4, High Accolade,0
+Friday 30th Aug, Salisbury ,3,06:45PM,5, Marmarus,0
+Friday 30th Aug, Salisbury ,3,06:45PM,6, Monte Viso,0
+Friday 30th Aug, Salisbury ,3,06:45PM,7, Ambria's Fury,0
+Friday 30th Aug, Salisbury ,3,06:45PM,8, Khloe,0
+Friday 30th Aug, Salisbury ,3,06:45PM,9, Mishnah,0
+Friday 30th Aug, Salisbury ,4,07:15PM,1, Ocean Storm,14
+Friday 30th Aug, Salisbury ,4,07:15PM,2, Anglophile,33
+Friday 30th Aug, Salisbury ,4,07:15PM,3, Aqlaam Vision,0
+Friday 30th Aug, Salisbury ,4,07:15PM,4, Mawzoona,0
+Friday 30th Aug, Salisbury ,4,07:15PM,5, Hedge End,33
+Friday 30th Aug, Salisbury ,4,07:15PM,6, Lady Marl,25
+Friday 30th Aug, Salisbury ,4,07:15PM,7, Rising Dawn,0
+Friday 30th Aug, Salisbury ,4,07:15PM,8, Khee Society,0
+Friday 30th Aug, Salisbury ,4,07:15PM,9, My My My Diliza,0
+Friday 30th Aug, Salisbury ,4,07:15PM,10, Aristocracy,0
+Friday 30th Aug, Salisbury ,5,07:45PM,1, Washaar,67
+Friday 30th Aug, Salisbury ,5,07:45PM,2, Chinese Jade,40
+Friday 30th Aug, Salisbury ,5,07:45PM,3, Cool Bahamian,40
+Friday 30th Aug, Salisbury ,5,07:45PM,4, Lone Warrior,25
+Friday 30th Aug, Salisbury ,5,07:45PM,5, Snow Trouble,50
+Friday 30th Aug, Salisbury ,5,07:45PM,6, Dancealot,20
+Friday 30th Aug, Salisbury ,6,08:15PM,1, Duke Of Perth,13
+Friday 30th Aug, Salisbury ,6,08:15PM,2, Plutocracy,40
+Friday 30th Aug, Salisbury ,6,08:15PM,3, Ronaldinho,25
+Friday 30th Aug, Salisbury ,6,08:15PM,4, Royal Signaller,17
+Friday 30th Aug, Salisbury ,6,08:15PM,5, Lady Pimpernel,14
+Friday 30th Aug, Salisbury ,6,08:15PM,6, Astrum,15
+Friday 30th Aug, Salisbury ,6,08:15PM,7, Candoluminescence,0
+Friday 30th Aug, Salisbury ,6,08:15PM,8, Khelac,8
+Friday 30th Aug, Salisbury ,7,08:45PM,1, Laser Blazer,8
+Friday 30th Aug, Salisbury ,7,08:45PM,2, Green To Gold,12
+Friday 30th Aug, Salisbury ,7,08:45PM,3, Dance With Me,0
+Friday 30th Aug, Salisbury ,7,08:45PM,4, Guards Chapel,18
+Friday 30th Aug, Salisbury ,7,08:45PM,5, Honourable Knight,18
+Friday 30th Aug, Salisbury ,7,08:45PM,6, Don Padeja,20
+Friday 30th Aug, Salisbury ,7,08:45PM,7, Sammyman,0
+Friday 30th Aug, Salisbury ,7,08:45PM,8, Shot In The Dark,0
+Friday 30th Aug, Salisbury ,7,08:45PM,9, Superciliary,5
+Friday 30th Aug, Salisbury ,7,08:45PM,10, Perfect Spell,0
+Friday 30th Aug, Salisbury ,7,08:45PM,11, Mick Duggan,13
+Friday 30th Aug, Sandown ,1,03:20PM,1, Strategical,67
+Friday 30th Aug, Sandown ,1,03:20PM,2, Mahlah,25
+Friday 30th Aug, Sandown ,1,03:20PM,3, Foxy Clarets,25
+Friday 30th Aug, Sandown ,1,03:20PM,4, Sunset Shore,14
+Friday 30th Aug, Sandown ,1,03:20PM,5, Urban Dreamer,0
+Friday 30th Aug, Sandown ,2,03:50PM,1, Solemn,16
+Friday 30th Aug, Sandown ,2,03:50PM,2, Rocket Rob,16
+Friday 30th Aug, Sandown ,2,03:50PM,3, Angel Way,17
+Friday 30th Aug, Sandown ,2,03:50PM,4, Crimson Queen,18
+Friday 30th Aug, Sandown ,2,03:50PM,5, Howyadoingnotsobad,17
+Friday 30th Aug, Sandown ,2,03:50PM,6, Wooden King,11
+Friday 30th Aug, Sandown ,2,03:50PM,7, Best Be Careful,16
+Friday 30th Aug, Sandown ,2,03:50PM,8, Greenery,20
+Friday 30th Aug, Sandown ,2,03:50PM,9, Irish Boy,13
+Friday 30th Aug, Sandown ,2,03:50PM,10, Macdillon,5
+Friday 30th Aug, Sandown ,2,03:50PM,11, The Strig,12
+Friday 30th Aug, Sandown ,2,03:50PM,12, The Wee Chief,10
+Friday 30th Aug, Sandown ,2,03:50PM,13, Golden Secret,0
+Friday 30th Aug, Sandown ,2,03:50PM,14, Picansort,15
+Friday 30th Aug, Sandown ,3,04:20PM,1, Arable,0
+Friday 30th Aug, Sandown ,3,04:20PM,2, Berkeley Vale,0
+Friday 30th Aug, Sandown ,3,04:20PM,3, Black Caesar,0
+Friday 30th Aug, Sandown ,3,04:20PM,4, Cape Summit,0
+Friday 30th Aug, Sandown ,3,04:20PM,5, Douman,0
+Friday 30th Aug, Sandown ,3,04:20PM,6, Dover The Moon,0
+Friday 30th Aug, Sandown ,3,04:20PM,7, Early Morning,0
+Friday 30th Aug, Sandown ,3,04:20PM,8, Ensuring,0
+Friday 30th Aug, Sandown ,3,04:20PM,9, Exchequer,0
+Friday 30th Aug, Sandown ,3,04:20PM,10, Flag War,0
+Friday 30th Aug, Sandown ,3,04:20PM,11, Irish Tears,0
+Friday 30th Aug, Sandown ,3,04:20PM,12, Maraayill,0
+Friday 30th Aug, Sandown ,3,04:20PM,13, Mind,0
+Friday 30th Aug, Sandown ,3,04:20PM,14, Stampede,0
+Friday 30th Aug, Sandown ,3,04:20PM,15, Mia San Triple,0
+Friday 30th Aug, Sandown ,4,04:55PM,1, Janoub Nibras,38
+Friday 30th Aug, Sandown ,4,04:55PM,2, George Cinq,25
+Friday 30th Aug, Sandown ,4,04:55PM,3, Enobled,33
+Friday 30th Aug, Sandown ,4,04:55PM,4, Breden,50
+Friday 30th Aug, Sandown ,4,04:55PM,5, Thouwra,14
+Friday 30th Aug, Sandown ,4,04:55PM,6, Brownsea Brink,33
+Friday 30th Aug, Sandown ,4,04:55PM,7, Regal Silk,20
+Friday 30th Aug, Sandown ,4,04:55PM,8, Tobacco Road,20
+Friday 30th Aug, Sandown ,4,04:55PM,9, Gracious George,18
+Friday 30th Aug, Sandown ,5,05:25PM,1, Dark Amber,0
+Friday 30th Aug, Sandown ,5,05:25PM,2, Electra Spectra,0
+Friday 30th Aug, Sandown ,5,05:25PM,3, Society Pearl,0
+Friday 30th Aug, Sandown ,5,05:25PM,4, Sultry Lady,0
+Friday 30th Aug, Sandown ,5,05:25PM,5, Toast of The Town,0
+Friday 30th Aug, Sandown ,6,06:00PM,1, Legal Waves,0
+Friday 30th Aug, Sandown ,6,06:00PM,2, Alegra,50
+Friday 30th Aug, Sandown ,6,06:00PM,3, Legends,0
+Friday 30th Aug, Sandown ,6,06:00PM,4, Close At Hand,20
+Friday 30th Aug, Sandown ,6,06:00PM,5, Aussie Lyrics,25
+Friday 30th Aug, Sandown ,6,06:00PM,6, Barnaby Brook,20
+Friday 30th Aug, Sandown ,6,06:00PM,7, Gilded Frame,0
+Friday 30th Aug, Sandown ,6,06:00PM,8, The Wizard Of Aus,0
+Friday 30th Aug, Southwell ,1,05:20PM,1, Bladewood Girl,10
+Friday 30th Aug, Southwell ,1,05:20PM,2, Knight Charm,10
+Friday 30th Aug, Southwell ,1,05:20PM,3, Moe's Place,0
+Friday 30th Aug, Southwell ,1,05:20PM,4, Handsome Stranger,6
+Friday 30th Aug, Southwell ,1,05:20PM,5, McConnell,16
+Friday 30th Aug, Southwell ,1,05:20PM,6, Lexi's Dancer,0
+Friday 30th Aug, Southwell ,1,05:20PM,7, Blackamoor Harry,0
+Friday 30th Aug, Southwell ,1,05:20PM,8, Marina Ballerina,0
+Friday 30th Aug, Southwell ,1,05:20PM,9, Multisure,0
+Friday 30th Aug, Southwell ,2,05:55PM,1, Roger Thorpe,0
+Friday 30th Aug, Southwell ,2,05:55PM,2, Pretty Bubbles,0
+Friday 30th Aug, Southwell ,2,05:55PM,3, Alfred The Great,0
+Friday 30th Aug, Southwell ,2,05:55PM,4, Blighty,0
+Friday 30th Aug, Southwell ,2,05:55PM,5, Get Going,0
+Friday 30th Aug, Southwell ,2,05:55PM,6, Tarmo,0
+Friday 30th Aug, Southwell ,2,05:55PM,7, Truth Hurts,0
+Friday 30th Aug, Southwell ,2,05:55PM,8, Bridge To My Heart,0
+Friday 30th Aug, Southwell ,3,06:30PM,1, Mr Carbonfootprint,50
+Friday 30th Aug, Southwell ,3,06:30PM,2, Quick Decision,0
+Friday 30th Aug, Southwell ,3,06:30PM,3, Cascadia,25
+Friday 30th Aug, Southwell ,3,06:30PM,4, Chilly In Rio,0
+Friday 30th Aug, Southwell ,3,06:30PM,5, Limegrove,17
+Friday 30th Aug, Southwell ,4,07:00PM,1, Music Stop,20
+Friday 30th Aug, Southwell ,4,07:00PM,2, Anytimeatall,0
+Friday 30th Aug, Southwell ,4,07:00PM,3, Countess Lupus,0
+Friday 30th Aug, Southwell ,4,07:00PM,4, Dotesy,0
+Friday 30th Aug, Southwell ,4,07:00PM,5, Paradise Child,0
+Friday 30th Aug, Southwell ,4,07:00PM,6, Red Tiger Lily,0
+Friday 30th Aug, Southwell ,4,07:00PM,7, Scarborough,0
+Friday 30th Aug, Southwell ,5,07:30PM,1, Speightowns Kid,6
+Friday 30th Aug, Southwell ,5,07:30PM,2, Spitfire,11
+Friday 30th Aug, Southwell ,5,07:30PM,3, Putin,7
+Friday 30th Aug, Southwell ,5,07:30PM,4, Solarmaite,0
+Friday 30th Aug, Southwell ,5,07:30PM,5, John Coffey,7
+Friday 30th Aug, Southwell ,5,07:30PM,6, Lord Buffhead,12
+Friday 30th Aug, Southwell ,5,07:30PM,7, Time To Begin,0
+Friday 30th Aug, Southwell ,5,07:30PM,8, Lady Cricketer,0
+Friday 30th Aug, Southwell ,5,07:30PM,9, Moss The Boss,0
+Friday 30th Aug, Southwell ,6,08:00PM,1, Adili,9
+Friday 30th Aug, Southwell ,6,08:00PM,2, Decana,13
+Friday 30th Aug, Southwell ,6,08:00PM,3, Mohawk Ridge,15
+Friday 30th Aug, Southwell ,6,08:00PM,4, Picalily,14
+Friday 30th Aug, Southwell ,6,08:00PM,5, Golden Jubilee,17
+Friday 30th Aug, Southwell ,6,08:00PM,6, Town Mouse,11
+Friday 30th Aug, Southwell ,6,08:00PM,7, Soweto Star,8
+Friday 30th Aug, Southwell ,6,08:00PM,8, Exclusion,13
+Friday 30th Aug, Southwell ,7,08:30PM,1, Tornado Force,18
+Friday 30th Aug, Southwell ,7,08:30PM,2, Madeira Girl,12
+Friday 30th Aug, Southwell ,7,08:30PM,3, Star Date,6
+Friday 30th Aug, Southwell ,7,08:30PM,4, Miss Ella Jade,5
+Friday 30th Aug, Southwell ,7,08:30PM,5, Goldie Horn,0
+Friday 30th Aug, Southwell ,7,08:30PM,6, Sixties Queen,0
+Friday 30th Aug, Southwell ,7,08:30PM,7, Le Tigre De Bronze,0
+Friday 30th Aug, Southwell ,7,08:30PM,8, Whistle We Go,0
+Friday 30th Aug, Thirsk ,1,03:10PM,1, Chivers,0
+Friday 30th Aug, Thirsk ,1,03:10PM,2, Desert Skywalker,0
+Friday 30th Aug, Thirsk ,1,03:10PM,3, Good Value,0
+Friday 30th Aug, Thirsk ,1,03:10PM,4, Greed Is Good,0
+Friday 30th Aug, Thirsk ,1,03:10PM,5, Hartnell,0
+Friday 30th Aug, Thirsk ,1,03:10PM,6, Innocent Touch,0
+Friday 30th Aug, Thirsk ,1,03:10PM,7, Mayfield Boy,0
+Friday 30th Aug, Thirsk ,1,03:10PM,8, Nam Ma Prow,0
+Friday 30th Aug, Thirsk ,1,03:10PM,9, Rock 'n' Roll Star,0
+Friday 30th Aug, Thirsk ,1,03:10PM,10, Aramadyh,0
+Friday 30th Aug, Thirsk ,1,03:10PM,11, Tortoise,0
+Friday 30th Aug, Thirsk ,2,03:40PM,1, Eddiemaurice,0
+Friday 30th Aug, Thirsk ,2,03:40PM,2, Emef Diamond,0
+Friday 30th Aug, Thirsk ,2,03:40PM,3, Highway Pursuit,0
+Friday 30th Aug, Thirsk ,2,03:40PM,4, Little Bruv,0
+Friday 30th Aug, Thirsk ,2,03:40PM,5, Major Surprise,0
+Friday 30th Aug, Thirsk ,2,03:40PM,6, Mustamir,0
+Friday 30th Aug, Thirsk ,2,03:40PM,7, Notarised,0
+Friday 30th Aug, Thirsk ,2,03:40PM,8, State Law,0
+Friday 30th Aug, Thirsk ,2,03:40PM,9, Ice Mayden,0
+Friday 30th Aug, Thirsk ,2,03:40PM,10, Northern Reach,0
+Friday 30th Aug, Thirsk ,3,04:10PM,1, Classy Lassy,0
+Friday 30th Aug, Thirsk ,3,04:10PM,2, Rievaulx Ranger,0
+Friday 30th Aug, Thirsk ,3,04:10PM,3, Song of Rowland,0
+Friday 30th Aug, Thirsk ,3,04:10PM,4, Casper Lee,0
+Friday 30th Aug, Thirsk ,3,04:10PM,5, Jaeger Connoisseur,0
+Friday 30th Aug, Thirsk ,3,04:10PM,6, Lunesdale Buddy,0
+Friday 30th Aug, Thirsk ,3,04:10PM,7, Valued Opinion,0
+Friday 30th Aug, Thirsk ,3,04:10PM,8, Elualla,0
+Friday 30th Aug, Thirsk ,3,04:10PM,9, Autumn Tide,0
+Friday 30th Aug, Thirsk ,3,04:10PM,10, Astral Pursuits,0
+Friday 30th Aug, Thirsk ,4,04:45PM,1, Imperial Legend,21
+Friday 30th Aug, Thirsk ,4,04:45PM,2, Silvanus,12
+Friday 30th Aug, Thirsk ,4,04:45PM,3, Johannes,12
+Friday 30th Aug, Thirsk ,4,04:45PM,4, Sunraider,14
+Friday 30th Aug, Thirsk ,4,04:45PM,5, Escape To Glory,11
+Friday 30th Aug, Thirsk ,4,04:45PM,6, Ashpan Sam,7
+Friday 30th Aug, Thirsk ,4,04:45PM,7, Pea Shooter,10
+Friday 30th Aug, Thirsk ,4,04:45PM,8, Sunrise Dance,14
+Friday 30th Aug, Thirsk ,4,04:45PM,9, Sir Pedro,10
+Friday 30th Aug, Thirsk ,4,04:45PM,10, Roker Park,12
+Friday 30th Aug, Thirsk ,4,04:45PM,11, Waseem Faris,5
+Friday 30th Aug, Thirsk ,4,04:45PM,12, Cocktail Charlie,3
+Friday 30th Aug, Thirsk ,4,04:45PM,13, Holy Angel,10
+Friday 30th Aug, Thirsk ,4,04:45PM,14, Captain Scooby,12
+Friday 30th Aug, Thirsk ,4,04:45PM,15, Fama Mac,9
+Friday 30th Aug, Thirsk ,4,04:45PM,16, George Fenton,17
+Friday 30th Aug, Thirsk ,5,05:15PM,1, Gabrial's Star,7
+Friday 30th Aug, Thirsk ,5,05:15PM,2, Teak,17
+Friday 30th Aug, Thirsk ,5,05:15PM,3, Dr Irv,14
+Friday 30th Aug, Thirsk ,5,05:15PM,4, Rosairlie,22
+Friday 30th Aug, Thirsk ,5,05:15PM,5, Spirit Of A Nation,13
+Friday 30th Aug, Thirsk ,5,05:15PM,6, Major Domo,11
+Friday 30th Aug, Thirsk ,5,05:15PM,7, My Destination,0
+Friday 30th Aug, Thirsk ,5,05:15PM,8, Miss Tiger Lily,30
+Friday 30th Aug, Thirsk ,5,05:15PM,9, Between The Lines,0
+Friday 30th Aug, Thirsk ,6,05:50PM,1, Above The Stars,15
+Friday 30th Aug, Thirsk ,6,05:50PM,2, Colbyor,12
+Friday 30th Aug, Thirsk ,6,05:50PM,3, Red Cape,13
+Friday 30th Aug, Thirsk ,6,05:50PM,4, Roland,16
+Friday 30th Aug, Thirsk ,6,05:50PM,5, Commanche Raider,9
+Friday 30th Aug, Thirsk ,6,05:50PM,6, Llewellyn,11
+Friday 30th Aug, Thirsk ,6,05:50PM,7, Partner,13
+Friday 30th Aug, Thirsk ,7,06:25PM,1, Tarrsille,4
+Friday 30th Aug, Thirsk ,7,06:25PM,2, President Lincoln,6
+Friday 30th Aug, Thirsk ,7,06:25PM,3, Tarooq,31
+Friday 30th Aug, Thirsk ,7,06:25PM,4, Barney McGrew,11
+Friday 30th Aug, Thirsk ,7,06:25PM,5, West Leake Hare,17
+Friday 30th Aug, Thirsk ,7,06:25PM,6, Our Boy Jack,12
+Friday 30th Aug, Thirsk ,7,06:25PM,7, Eurystheus,13
+Friday 30th Aug, Thirsk ,7,06:25PM,8, Comrade Bond,11
+Friday 30th Aug, Thirsk ,7,06:25PM,9, Steel Stockholder,12
+Friday 30th Aug, Thirsk ,7,06:25PM,10, Kung Hei Fat Choy,17
+Friday 30th Aug, Thirsk ,7,06:25PM,11, Sardanapalus,9
+Friday 30th Aug, Thirsk ,7,06:25PM,12, Evanescent,14
+Friday 30th Aug, Thirsk ,7,06:25PM,13, Mutafaakir,5
+Friday 30th Aug, Thirsk ,7,06:25PM,14, Celtic Sixpence,9
+Friday 30th Aug, Thirsk ,7,06:25PM,15, Half A Crown,14
+Friday 30th Aug, Thirsk ,7,06:25PM,16, Blue Maisey,7
+Friday 30th Aug, Thirsk ,8,06:55PM,1, Callmeakhab,17
+Friday 30th Aug, Thirsk ,8,06:55PM,2, Gabrial The Thug,0
+Friday 30th Aug, Thirsk ,8,06:55PM,3, Mandy's Boy,20
+Friday 30th Aug, Thirsk ,8,06:55PM,4, Medici Dancer,9
+Friday 30th Aug, Thirsk ,8,06:55PM,5, Tanawar,0
+Friday 30th Aug, Thirsk ,8,06:55PM,6, Bousatet,17
+Friday 30th Aug, Thirsk ,8,06:55PM,7, The Scuttler,17
+Friday 30th Aug, Thirsk ,8,06:55PM,8, Marcus Caesar,11
+Friday 30th Aug, Thirsk ,8,06:55PM,9, Bitusa,0
+Friday 30th Aug, Thirsk ,8,06:55PM,10, Midnight Warrior,0
+Friday 30th Aug, Thirsk ,8,06:55PM,11, Mysterious Wonder,0
+Friday 30th Aug, Thirsk ,8,06:55PM,12, Fantasy Invader,0
+Friday 30th Aug, Killarney ,1,05:45PM,1, Ballyglasheen,0
+Friday 30th Aug, Killarney ,1,05:45PM,2, Dream Nolan,0
+Friday 30th Aug, Killarney ,1,05:45PM,3, Gmac,0
+Friday 30th Aug, Killarney ,1,05:45PM,4, Haverstock,0
+Friday 30th Aug, Killarney ,1,05:45PM,5, Keychain,0
+Friday 30th Aug, Killarney ,1,05:45PM,6, Marvelous James,0
+Friday 30th Aug, Killarney ,1,05:45PM,7, Maximal Crazy,0
+Friday 30th Aug, Killarney ,1,05:45PM,8, Sakhib,0
+Friday 30th Aug, Killarney ,1,05:45PM,9, Sin Miedo,0
+Friday 30th Aug, Killarney ,1,05:45PM,10, Supercruiser,0
+Friday 30th Aug, Killarney ,2,06:20PM,1, Bally Longford,33
+Friday 30th Aug, Killarney ,2,06:20PM,2, Our Man Zebo,43
+Friday 30th Aug, Killarney ,2,06:20PM,3, Banana Flambe,17
+Friday 30th Aug, Killarney ,2,06:20PM,4, Flatfoot Boogie,50
+Friday 30th Aug, Killarney ,2,06:20PM,5, Freneys Well,18
+Friday 30th Aug, Killarney ,2,06:20PM,6, Keep On Track,18
+Friday 30th Aug, Killarney ,2,06:20PM,7, Lots Of Memories,17
+Friday 30th Aug, Killarney ,2,06:20PM,8, Supreme Doc,14
+Friday 30th Aug, Killarney ,2,06:20PM,9, Zest For Life,9
+Friday 30th Aug, Killarney ,2,06:20PM,10, Ittimetogo,20
+Friday 30th Aug, Killarney ,3,06:50PM,1, He'llberemembered,20
+Friday 30th Aug, Killarney ,3,06:50PM,2, Shamiran,4
+Friday 30th Aug, Killarney ,3,06:50PM,3, Blossom Gate,33
+Friday 30th Aug, Killarney ,3,06:50PM,4, Gift Of Dgab,14
+Friday 30th Aug, Killarney ,3,06:50PM,5, Landero,19
+Friday 30th Aug, Killarney ,3,06:50PM,6, Balnaslow,23
+Friday 30th Aug, Killarney ,3,06:50PM,7, Blackwell Synergy,27
+Friday 30th Aug, Killarney ,3,06:50PM,8, White Star Line,6
+Friday 30th Aug, Killarney ,3,06:50PM,9, Usuel Smurfer,25
+Friday 30th Aug, Killarney ,3,06:50PM,10, Queiros Bleu,17
+Friday 30th Aug, Killarney ,3,06:50PM,11, Aughnacurraveel,22
+Friday 30th Aug, Killarney ,3,06:50PM,12, Takeyourcapoff,11
+Friday 30th Aug, Killarney ,3,06:50PM,13, Another Rebel,10
+Friday 30th Aug, Killarney ,3,06:50PM,14, Coolmill,8
+Friday 30th Aug, Killarney ,3,06:50PM,15, Glenwood Knight,14
+Friday 30th Aug, Killarney ,3,06:50PM,16, Blissful Moment,15
+Friday 30th Aug, Killarney ,3,06:50PM,17, Dingaling,11
+Friday 30th Aug, Killarney ,3,06:50PM,18, Jakros,15
+Friday 30th Aug, Killarney ,3,06:50PM,19, Eagle's Pass,12
+Friday 30th Aug, Killarney ,3,06:50PM,20, Joe Reed,8
+Friday 30th Aug, Killarney ,4,07:20PM,1, Between Me And You,17
+Friday 30th Aug, Killarney ,4,07:20PM,2, Blue Vic,13
+Friday 30th Aug, Killarney ,4,07:20PM,3, Greenbelt Star,9
+Friday 30th Aug, Killarney ,4,07:20PM,4, Nearest The Pin,7
+Friday 30th Aug, Killarney ,4,07:20PM,5, Passage Vendome,25
+Friday 30th Aug, Killarney ,4,07:20PM,6, Run With The Wind,24
+Friday 30th Aug, Killarney ,4,07:20PM,7, Saint Gervais,17
+Friday 30th Aug, Killarney ,4,07:20PM,8, Sonic Beat,0
+Friday 30th Aug, Killarney ,4,07:20PM,9, Steps To Freedom,23
+Friday 30th Aug, Killarney ,4,07:20PM,10, Ted Dolly,8
+Friday 30th Aug, Killarney ,4,07:20PM,11, Choisir Fin,0
+Friday 30th Aug, Killarney ,4,07:20PM,12, Love Rory,27
+Friday 30th Aug, Killarney ,4,07:20PM,13, Musawama,18
+Friday 30th Aug, Killarney ,4,07:20PM,14, Old Pride,0
+Friday 30th Aug, Killarney ,4,07:20PM,15, Thegondolier,6
+Friday 30th Aug, Killarney ,4,07:20PM,16, Rockshandy,6
+Friday 30th Aug, Killarney ,5,07:50PM,1, Archie Meade,27
+Friday 30th Aug, Killarney ,5,07:50PM,2, Black Cache,6
+Friday 30th Aug, Killarney ,5,07:50PM,3, Caolaneoin,18
+Friday 30th Aug, Killarney ,5,07:50PM,4, Flying Acrobat,0
+Friday 30th Aug, Killarney ,5,07:50PM,5, Irish Soul,17
+Friday 30th Aug, Killarney ,5,07:50PM,6, New Phase,36
+Friday 30th Aug, Killarney ,5,07:50PM,7, Owega Star,24
+Friday 30th Aug, Killarney ,5,07:50PM,8, Parthian Empire,6
+Friday 30th Aug, Killarney ,5,07:50PM,9, Presenting Nama,23
+Friday 30th Aug, Killarney ,5,07:50PM,10, Rodriguez,15
+Friday 30th Aug, Killarney ,5,07:50PM,11, Shahrafi,0
+Friday 30th Aug, Killarney ,5,07:50PM,12, Cause Of Causes,35
+Friday 30th Aug, Killarney ,5,07:50PM,13, Coney Choice,0
+Friday 30th Aug, Killarney ,5,07:50PM,14, Shanpallas,25
+Friday 30th Aug, Killarney ,5,07:50PM,15, Thomond,29
+Friday 30th Aug, Killarney ,5,07:50PM,16, Allow Ned,8
+Friday 30th Aug, Killarney ,5,07:50PM,17, Carlos Fandango,7
+Friday 30th Aug, Killarney ,5,07:50PM,18, Lamb's Cross,8
+Friday 30th Aug, Killarney ,6,08:20PM,1, Go All The Way,30
+Friday 30th Aug, Killarney ,6,08:20PM,2, Moon Dice,17
+Friday 30th Aug, Killarney ,6,08:20PM,3, Shot From The Hip,30
+Friday 30th Aug, Killarney ,6,08:20PM,4, Toner D'Oudairies,19
+Friday 30th Aug, Killarney ,6,08:20PM,5, Allee Garde,16
+Friday 30th Aug, Killarney ,6,08:20PM,6, Blazing Beacon,27
+Friday 30th Aug, Killarney ,6,08:20PM,7, Fisher Bridge,20
+Friday 30th Aug, Killarney ,6,08:20PM,8, Toostrong,27
+Friday 30th Aug, Killarney ,6,08:20PM,9, Harold's Cross,14
+Friday 30th Aug, Killarney ,6,08:20PM,10, On The Way Out,16
+Friday 30th Aug, Killarney ,6,08:20PM,11, Theshowisover,13
+Friday 30th Aug, Killarney ,6,08:20PM,12, Gonebeyondrecall,13
+Friday 30th Aug, Killarney ,6,08:20PM,13, Another Ambition,15
+Friday 30th Aug, Killarney ,6,08:20PM,14, Sicilian Secret,20
+Friday 30th Aug, Killarney ,6,08:20PM,15, Save My Blushes,12
+Friday 30th Aug, Killarney ,6,08:20PM,16, Murchu,17
+Friday 30th Aug, Killarney ,6,08:20PM,17, Heavenly Brook,12
+Friday 30th Aug, Killarney ,7,08:50PM,1, Casey Ryback,0
+Friday 30th Aug, Killarney ,7,08:50PM,2, Didyouno,0
+Friday 30th Aug, Killarney ,7,08:50PM,3, Draco,0
+Friday 30th Aug, Killarney ,7,08:50PM,4, Kayf Blanco,0
+Friday 30th Aug, Killarney ,7,08:50PM,5, Lake Chapala,0
+Friday 30th Aug, Killarney ,7,08:50PM,6, Larwher'stommy,0
+Friday 30th Aug, Killarney ,7,08:50PM,7, Minella Web,0
+Friday 30th Aug, Killarney ,7,08:50PM,8, Spa Hill,0
+Friday 30th Aug, Killarney ,7,08:50PM,9, Steel King,0
+Friday 30th Aug, Killarney ,7,08:50PM,10, Tilthemidnighthour,0
+Friday 30th Aug, Killarney ,7,08:50PM,11, Back Before Dawn,0
+Friday 30th Aug, Killarney ,7,08:50PM,12, Emerald Honours,0
+Friday 30th Aug, Killarney ,7,08:50PM,13, Gracenkate,0
+Friday 30th Aug, Killarney ,7,08:50PM,14, Magic Massie,0
+Friday 30th Aug, Killarney ,7,08:50PM,15, Miss Coley,0
+Friday 30th Aug, Killarney ,7,08:50PM,16, Tirauli,0
