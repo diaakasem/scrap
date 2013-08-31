@@ -76,13 +76,11 @@ def extractPage(url):
         result.append(obj)
     return result
 
-
 def writeData(outputFile, data):
     with open(outputFile, 'wb') as csvfile:
         output = csv.DictWriter(csvfile, delimiter=',', fieldnames=fields)
         output.writeheader()
         output.writerows(data)
-
 
 def main():
     result = []
@@ -93,9 +91,10 @@ def main():
         data = extractPage(u)
         if data:
             result = result + data
+
+        print "Writing to disk."
+        writeData(outputFile, result)
         time.sleep(1)
-    print "Writing to disk."
-    writeData(outputFile, result)
     print "Done."
 
 if __name__ == '__main__':
