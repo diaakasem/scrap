@@ -1,43 +1,312 @@
 Rcdate,Track,Rcno,Rctime,Tab,Horse,Rat
-Saturday 31st Aug, Armidale ,1,05:47AM,1, Hoarfrost,0
-Saturday 31st Aug, Armidale ,1,05:47AM,2, Making Waves,0
-Saturday 31st Aug, Armidale ,1,05:47AM,3, Mind the Mint,0
-Saturday 31st Aug, Armidale ,1,05:47AM,4, Rothcote,0
-Saturday 31st Aug, Armidale ,1,05:47AM,5, Seaside Tiger,0
-Saturday 31st Aug, Armidale ,1,05:47AM,6, Madam Petite,0
-Saturday 31st Aug, Armidale ,1,05:47AM,7, Maizin Miss,0
-Saturday 31st Aug, Armidale ,1,05:47AM,8, Miss Snipster,0
-Saturday 31st Aug, Armidale ,1,05:47AM,9, Rockastound,0
-Saturday 31st Aug, Armidale ,1,05:47AM,10, Tears Go By,0
-Saturday 31st Aug, Armidale ,1,05:47AM,11, Chandon Charlotte,0
-Saturday 31st Aug, Armidale ,2,06:22AM,1, Letters,0
-Saturday 31st Aug, Armidale ,2,06:22AM,2, Manner Ridge,0
-Saturday 31st Aug, Armidale ,2,06:22AM,3, Ballading,0
-Saturday 31st Aug, Armidale ,2,06:22AM,4, Chief Seattle,0
-Saturday 31st Aug, Armidale ,2,06:22AM,5, Carry On Spinner,0
-Saturday 31st Aug, Armidale ,2,06:22AM,6, Chavel Delight,0
-Saturday 31st Aug, Armidale ,2,06:22AM,7, Grey Chaser,0
-Saturday 31st Aug, Armidale ,2,06:22AM,8, Major Hunter,0
-Saturday 31st Aug, Armidale ,2,06:22AM,9, Never Home,0
-Saturday 31st Aug, Armidale ,2,06:22AM,10, Oriental Express,0
-Saturday 31st Aug, Armidale ,2,06:22AM,11, Royal Chancellor,0
-Saturday 31st Aug, Armidale ,2,06:22AM,12, Takiri,0
-Saturday 31st Aug, Armidale ,2,06:22AM,13, Tillane,0
-Saturday 31st Aug, Armidale ,3,07:02AM,1, Unikin,11
-Saturday 31st Aug, Armidale ,3,07:02AM,2, Bombproof,11
-Saturday 31st Aug, Armidale ,3,07:02AM,3, Commanding Cash,15
-Saturday 31st Aug, Armidale ,3,07:02AM,4, You Owe Us,8
-Saturday 31st Aug, Armidale ,3,07:02AM,5, Mando,22
-Saturday 31st Aug, Armidale ,3,07:02AM,6, Honour Ron,11
-Saturday 31st Aug, Armidale ,3,07:02AM,7, Zar Express,8
-Saturday 31st Aug, Armidale ,3,07:02AM,8, Leica Charm,13
-Saturday 31st Aug, Armidale ,3,07:02AM,9, Mapuche,9
-Saturday 31st Aug, Armidale ,3,07:02AM,10, Grande Zariz,11
-Saturday 31st Aug, Armidale ,3,07:02AM,11, Make Me Some,8
-Saturday 31st Aug, Armidale ,3,07:02AM,12, Make Magic,7
-Saturday 31st Aug, Armidale ,3,07:02AM,13, Northern Mark,5
-Saturday 31st Aug, Armidale ,3,07:02AM,14, Alleviate,5
-Saturday 31st Aug, Armidale ,3,07:02AM,15, Heistmaster,10
-Saturday 31st Aug, Armidale ,3,07:02AM,16, Arakoon,19
-Saturday 31st Aug, Armidale ,3,07:02AM,17, Idle Joker,8
-Saturday 31st Aug, Armidale ,3,07:02AM,18, Blue Ali,5
+Sunday 1st Sep,Ballarat,1,04:30AM,3,Lord Athenaeum,100
+Sunday 1st Sep,Ballarat,1,04:30AM,8,Dynamic Balance,83
+Sunday 1st Sep,Ballarat,1,04:30AM,1,Gravitational,63
+Sunday 1st Sep,Ballarat,1,04:30AM,2,Kolanos,0
+Sunday 1st Sep,Ballarat,1,04:30AM,4,Mahican,0
+Sunday 1st Sep,Ballarat,1,04:30AM,5,Nomis,0
+Sunday 1st Sep,Ballarat,1,04:30AM,6,Wunghnu,0
+Sunday 1st Sep,Ballarat,1,04:30AM,7,Chips In,0
+Sunday 1st Sep,Ballarat,2,05:05AM,7,Ruperton,100
+Sunday 1st Sep,Ballarat,2,05:05AM,14,Our Redeemer,100
+Sunday 1st Sep,Ballarat,2,05:05AM,15,Tupac Amaru,100
+Sunday 1st Sep,Ballarat,2,05:05AM,4,Kershaw,50
+Sunday 1st Sep,Ballarat,2,05:05AM,5,Leadfoot,50
+Sunday 1st Sep,Ballarat,2,05:05AM,6,Malinga,50
+Sunday 1st Sep,Ballarat,2,05:05AM,13,Le Mans,50
+Sunday 1st Sep,Ballarat,2,05:05AM,8,Top Brass,38
+Sunday 1st Sep,Ballarat,2,05:05AM,9,Curata Fire,13
+Sunday 1st Sep,Ballarat,2,05:05AM,2,Dapper Dan,10
+Sunday 1st Sep,Ballarat,2,05:05AM,1,Big Baba Looey,0
+Sunday 1st Sep,Ballarat,2,05:05AM,3,Irish Ransom,0
+Sunday 1st Sep,Ballarat,2,05:05AM,10,Estiquet,0
+Sunday 1st Sep,Ballarat,2,05:05AM,11,La Amistad,0
+Sunday 1st Sep,Ballarat,2,05:05AM,12,Savannabeel,0
+Sunday 1st Sep,Ballarat,2,05:05AM,16,Cafe Scientific,0
+Sunday 1st Sep,Ballarat,2,05:05AM,17,Forward Lane,0
+Sunday 1st Sep,Ballarat,2,05:05AM,18,Memphis Lady,0
+Sunday 1st Sep,Ballarat,3,05:40AM,14,Street Allure,100
+Sunday 1st Sep,Ballarat,3,05:40AM,16,Sweet Starlett,100
+Sunday 1st Sep,Ballarat,3,05:40AM,17,Munfasla,50
+Sunday 1st Sep,Ballarat,3,05:40AM,1,Ardelle,0
+Sunday 1st Sep,Ballarat,3,05:40AM,2,Cheyenne Sue,0
+Sunday 1st Sep,Ballarat,3,05:40AM,3,Cocklebiddy,0
+Sunday 1st Sep,Ballarat,3,05:40AM,4,Gilago,0
+Sunday 1st Sep,Ballarat,3,05:40AM,5,Goodnight Nurse,0
+Sunday 1st Sep,Ballarat,3,05:40AM,6,Hello Soldier,0
+Sunday 1st Sep,Ballarat,3,05:40AM,7,Hidden Forever,0
+Sunday 1st Sep,Ballarat,3,05:40AM,8,Hot Marmalade,0
+Sunday 1st Sep,Ballarat,3,05:40AM,9,Nicamore,0
+Sunday 1st Sep,Ballarat,3,05:40AM,10,Pilly's Wish,0
+Sunday 1st Sep,Ballarat,3,05:40AM,11,Ravaged Heart,0
+Sunday 1st Sep,Ballarat,3,05:40AM,12,She's Tempting,0
+Sunday 1st Sep,Ballarat,3,05:40AM,13,Solicit,0
+Sunday 1st Sep,Ballarat,3,05:40AM,15,Suavito,0
+Sunday 1st Sep,Ballarat,3,05:40AM,18,Dragon Queen,0
+Sunday 1st Sep,Ballarat,3,05:40AM,19,Pinova,0
+Sunday 1st Sep,Ballarat,3,05:40AM,20,Berdini,0
+Sunday 1st Sep,Ballarat,4,06:15AM,4,Malan,100
+Sunday 1st Sep,Ballarat,4,06:15AM,7,Worth a Ransom,88
+Sunday 1st Sep,Ballarat,4,06:15AM,8,No Extensions,63
+Sunday 1st Sep,Ballarat,4,06:15AM,1,Tigerish,58
+Sunday 1st Sep,Ballarat,4,06:15AM,6,Street Stalker,58
+Sunday 1st Sep,Ballarat,4,06:15AM,5,Podsnap,51
+Sunday 1st Sep,Ballarat,4,06:15AM,2,Rhodehaven,44
+Sunday 1st Sep,Ballarat,4,06:15AM,3,Ginger's Gem,35
+Sunday 1st Sep,Ballarat,5,06:53AM,10,Fine,100
+Sunday 1st Sep,Ballarat,5,06:53AM,6,Livery,94
+Sunday 1st Sep,Ballarat,5,06:53AM,1,Gotta Dream,70
+Sunday 1st Sep,Ballarat,5,06:53AM,2,Total Pursuit,59
+Sunday 1st Sep,Ballarat,5,06:53AM,7,Railblazer,59
+Sunday 1st Sep,Ballarat,5,06:53AM,8,Seuss,54
+Sunday 1st Sep,Ballarat,5,06:53AM,3,Mr Jazz,46
+Sunday 1st Sep,Ballarat,5,06:53AM,4,Grand Sunday,42
+Sunday 1st Sep,Ballarat,5,06:53AM,9,Star of Tralee,41
+Sunday 1st Sep,Ballarat,5,06:53AM,5,Barbie Dazzler,35
+Sunday 1st Sep,Ballarat,5,06:53AM,11,Sleep'n Pete,30
+Sunday 1st Sep,Ballarat,6,07:28AM,1,White Sambuca,100
+Sunday 1st Sep,Ballarat,6,07:28AM,8,Chilli Beach,94
+Sunday 1st Sep,Ballarat,6,07:28AM,2,Appoint,75
+Sunday 1st Sep,Ballarat,6,07:28AM,3,Live for Today,75
+Sunday 1st Sep,Ballarat,6,07:28AM,6,Chiquada,75
+Sunday 1st Sep,Ballarat,6,07:28AM,11,Trouble in Vegas,75
+Sunday 1st Sep,Ballarat,6,07:28AM,4,Scottish Arms,64
+Sunday 1st Sep,Ballarat,6,07:28AM,10,Sagacious Flame,60
+Sunday 1st Sep,Ballarat,6,07:28AM,5,Nou Camp,58
+Sunday 1st Sep,Ballarat,6,07:28AM,7,Uno Whats,57
+Sunday 1st Sep,Ballarat,6,07:28AM,9,Drunken Poet,16
+Sunday 1st Sep,Ballarat,7,08:03AM,6,Love or Gold,100
+Sunday 1st Sep,Ballarat,7,08:03AM,5,Miss Matty,78
+Sunday 1st Sep,Ballarat,7,08:03AM,2,No Song No Supper,73
+Sunday 1st Sep,Ballarat,7,08:03AM,8,Regina Coeli,73
+Sunday 1st Sep,Ballarat,7,08:03AM,3,Bonny Jeunesse,69
+Sunday 1st Sep,Ballarat,7,08:03AM,1,Caroun,63
+Sunday 1st Sep,Ballarat,7,08:03AM,7,The Zero,52
+Sunday 1st Sep,Ballarat,7,08:03AM,4,Streets Apart,50
+Sunday 1st Sep,Ballarat,7,08:03AM,10,Willy's Boy,28
+Sunday 1st Sep,Ballarat,7,08:03AM,9,Wilbo,25
+Sunday 1st Sep,Ballina,1,05:20AM,4,Moon And the Stars,100
+Sunday 1st Sep,Ballina,1,05:20AM,3,Don't Mean Maybe,44
+Sunday 1st Sep,Ballina,1,05:20AM,8,Sam's Jewel,17
+Sunday 1st Sep,Ballina,1,05:20AM,1,Punjab Nashy,0
+Sunday 1st Sep,Ballina,1,05:20AM,2,Royal Cymbal,0
+Sunday 1st Sep,Ballina,1,05:20AM,5,Brave Soldier,0
+Sunday 1st Sep,Ballina,1,05:20AM,6,Gallery of Stars,0
+Sunday 1st Sep,Ballina,1,05:20AM,7,Miss Gibraltar,0
+Sunday 1st Sep,Ballina,1,05:20AM,9,Ticket to Heaven,0
+Sunday 1st Sep,Ballina,2,05:55AM,2,Greenbrier,100
+Sunday 1st Sep,Ballina,2,05:55AM,7,Active Star,62
+Sunday 1st Sep,Ballina,2,05:55AM,6,Papago,60
+Sunday 1st Sep,Ballina,2,05:55AM,1,Casino Century,50
+Sunday 1st Sep,Ballina,2,05:55AM,4,Same As George,50
+Sunday 1st Sep,Ballina,2,05:55AM,8,French Voyager,33
+Sunday 1st Sep,Ballina,2,05:55AM,14,To Be Obeyed,29
+Sunday 1st Sep,Ballina,2,05:55AM,9,Magic Alberta,25
+Sunday 1st Sep,Ballina,2,05:55AM,11,Mum's Cat,22
+Sunday 1st Sep,Ballina,2,05:55AM,12,On the Bid,22
+Sunday 1st Sep,Ballina,2,05:55AM,16,Miss Pussigato,18
+Sunday 1st Sep,Ballina,2,05:55AM,17,Undercover Secret,15
+Sunday 1st Sep,Ballina,2,05:55AM,5,Proof Red,14
+Sunday 1st Sep,Ballina,2,05:55AM,3,Kawana Kaos,0
+Sunday 1st Sep,Ballina,2,05:55AM,10,Medicate,0
+Sunday 1st Sep,Ballina,2,05:55AM,13,Space Escapee,0
+Sunday 1st Sep,Ballina,2,05:55AM,15,Heindz,0
+Sunday 1st Sep,Ballina,2,05:55AM,18,Sabarbah,0
+Sunday 1st Sep,Ballina,3,06:30AM,1,Bundy Special,100
+Sunday 1st Sep,Ballina,3,06:30AM,5,Bay Alert,91
+Sunday 1st Sep,Ballina,3,06:30AM,4,Cyclone Brad,82
+Sunday 1st Sep,Ballina,3,06:30AM,2,Ibalance,80
+Sunday 1st Sep,Ballina,3,06:30AM,3,Cryon,69
+Sunday 1st Sep,Ballina,3,06:30AM,6,Cearnach,69
+Sunday 1st Sep,Ballina,3,06:30AM,7,Vienne,60
+Sunday 1st Sep,Ballina,4,07:05AM,2,He's All Gold,100
+Sunday 1st Sep,Ballina,4,07:05AM,3,Black Passion,56
+Sunday 1st Sep,Ballina,4,07:05AM,5,Lambourn,44
+Sunday 1st Sep,Ballina,4,07:05AM,7,You've Gottaloveit,44
+Sunday 1st Sep,Ballina,4,07:05AM,1,Gentle Melody,42
+Sunday 1st Sep,Ballina,4,07:05AM,8,Seth,42
+Sunday 1st Sep,Ballina,4,07:05AM,6,Powers That Be,36
+Sunday 1st Sep,Ballina,4,07:05AM,9,Gift of the Day,29
+Sunday 1st Sep,Ballina,4,07:05AM,4,Hidden Rock,26
+Sunday 1st Sep,Ballina,5,07:40AM,2,Aussie Triumph,100
+Sunday 1st Sep,Ballina,5,07:40AM,4,Just So Bruno,84
+Sunday 1st Sep,Ballina,5,07:40AM,5,Valiant Heart,64
+Sunday 1st Sep,Ballina,5,07:40AM,10,Clasped,49
+Sunday 1st Sep,Ballina,5,07:40AM,11,Castelera,49
+Sunday 1st Sep,Ballina,5,07:40AM,3,Can't Find Him,45
+Sunday 1st Sep,Ballina,5,07:40AM,6,Ritzy's Boy,45
+Sunday 1st Sep,Ballina,5,07:40AM,8,Natural Nev,45
+Sunday 1st Sep,Ballina,5,07:40AM,15,Ready to Rule,44
+Sunday 1st Sep,Ballina,5,07:40AM,1,Javasea,42
+Sunday 1st Sep,Ballina,5,07:40AM,13,Ruling Heart,40
+Sunday 1st Sep,Ballina,5,07:40AM,14,Sir Roseland,38
+Sunday 1st Sep,Ballina,5,07:40AM,9,Caught High,33
+Sunday 1st Sep,Ballina,5,07:40AM,7,Multiproud,27
+Sunday 1st Sep,Ballina,5,07:40AM,12,Rena,23
+Sunday 1st Sep,Ballina,6,08:15AM,5,Magic Shuffle,100
+Sunday 1st Sep,Ballina,6,08:15AM,3,Haslington,87
+Sunday 1st Sep,Ballina,6,08:15AM,4,Home to the Bride,83
+Sunday 1st Sep,Ballina,6,08:15AM,6,Toucan Ukelele,79
+Sunday 1st Sep,Ballina,6,08:15AM,9,My Private Dancer,73
+Sunday 1st Sep,Ballina,6,08:15AM,8,Busy Doin' Nothin',71
+Sunday 1st Sep,Ballina,6,08:15AM,1,Horoscopes,67
+Sunday 1st Sep,Ballina,6,08:15AM,2,Geronimo Jack,65
+Sunday 1st Sep,Ballina,6,08:15AM,7,Zaha Secret,63
+Sunday 1st Sep,Ballina,6,08:15AM,11,Kings Danseur,48
+Sunday 1st Sep,Ballina,6,08:15AM,10,St Edition,38
+Sunday 1st Sep,Ballina,7,08:55AM,1,Anton En Avant,100
+Sunday 1st Sep,Ballina,7,08:55AM,5,Lola's Choice,79
+Sunday 1st Sep,Ballina,7,08:55AM,6,Man of Persia,74
+Sunday 1st Sep,Ballina,7,08:55AM,2,Vader,55
+Sunday 1st Sep,Ballina,7,08:55AM,9,Red Stockings,51
+Sunday 1st Sep,Ballina,7,08:55AM,8,Clever Fortune,50
+Sunday 1st Sep,Ballina,7,08:55AM,7,Roussos Destiny,48
+Sunday 1st Sep,Ballina,7,08:55AM,3,Cambo's Mate,41
+Sunday 1st Sep,Ballina,7,08:55AM,4,The Hum,41
+Sunday 1st Sep,Ballina,7,08:55AM,11,Ita Wahine,41
+Sunday 1st Sep,Ballina,7,08:55AM,12,Punters Corner,40
+Sunday 1st Sep,Ballina,7,08:55AM,13,Rock to Paradise,38
+Sunday 1st Sep,Ballina,7,08:55AM,10,Dead Shot,25
+Sunday 1st Sep,Ballina,7,08:55AM,14,Secret Touch,20
+Sunday 1st Sep,Ballina,7,08:55AM,17,Lil Tricky,20
+Sunday 1st Sep,Ballina,7,08:55AM,16,Stand Ready,16
+Sunday 1st Sep,Ballina,7,08:55AM,15,Romeo's Kiss,14
+Sunday 1st Sep,Ballina,7,08:55AM,18,Aussie Gal,8
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,2,Danestone,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,3,General Gee Gee,77
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,10,Sheza Fatty Boomba,57
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,9,Sharma Magic,40
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,1,Ash for Cash,38
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,6,Gold Adonna,30
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,4,Kentucky King,23
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,5,Frogmoor Louie,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,7,Magestic Impulse,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,8,Set for Tea,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,1,03:55AM,11,Billemma,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,11,Beryl Bee,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,2,Come On Charger,44
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,5,Funambulism,40
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,8,Royal Bluff,26
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,10,Yackety Sax,14
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,1,Baumgartner,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,3,Crabby Ness,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,4,Ladercrombie,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,6,Goodtime Story,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,7,Portavik Playtime,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,2,04:35AM,9,Sister Ignatius,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,1,Credit Trader,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,7,Saturn Shimmy,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,3,Mygreyhorse,66
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,10,Hoop,66
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,2,Mum And I,58
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,9,Sonetto,42
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,4,Boxercise,40
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,8,Set Value,30
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,5,Neconni Girl,26
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,6,Poponova,18
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,11,Argentinian Storm,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,3,05:10AM,12,Kosta Innocence,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,7,Cerise Sauvage,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,8,Gee Gee Miss Bee,60
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,3,Light the Candles,53
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,4,Overproof,49
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,12,Rain Storm,49
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,5,Geegees Hawkeye,45
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,2,Laduka,44
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,13,Barely a Secret,42
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,1,Auburn,40
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,10,Military Boy,38
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,11,Our Clangalang,35
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,6,Achaea,33
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,9,Keep Racing,13
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,14,Umlimo,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,15,Allymay Flyer,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,4,05:45AM,16,Stormswift,0
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,9,Viva La Witch,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,1,Darchill,88
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,10,Let's Go Ernie,88
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,11,Sister Quest,88
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,13,Evil Intent,88
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,8,Kentucky Tea,81
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,2,Keukenhof,75
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,6,Glisson,70
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,3,Ourmaher,58
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,12,Deceitful Cove,58
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,14,Ordain,58
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,4,Symbol of Freedom,54
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,5,Beer Belly,23
+Sunday 1st Sep,Devonport Tapeta Synthetic,5,06:20AM,7,Inxeeblack,14
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,5,Quest Master,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,2,Cuprona Road,75
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,1,The Producer,58
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,6,Royal Beluga,53
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,3,Stormbay Bomber,50
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,4,Sh'bourne Spirit,40
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,9,Vivre La Claire,33
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,7,My Angels,29
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,8,Handle On a Star,25
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,10,Tuesdaynitedelight,25
+Sunday 1st Sep,Devonport Tapeta Synthetic,6,06:57AM,11,Yasir,20
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,2,Esspressardo,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,4,Regio,92
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,9,Testa Gee Gee,78
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,1,Bianforgetful,73
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,6,Blacko,64
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,5,Westella Magic,63
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,3,Gotta Have Faith,54
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,8,Kirkson,53
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,7,Carnegie Flyer,41
+Sunday 1st Sep,Devonport Tapeta Synthetic,7,07:32AM,10,Destiny's Girl,39
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,5,Terra Amata,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,6,Little River Girl,93
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,7,Flash Al Moon,75
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,9,Merits Respect,65
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,2,Bionic Star,64
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,8,From the Bronx,63
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,3,Unoaked,58
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,4,Strike the Tiger,45
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,10,Fashion Label,44
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,11,Molvivre,37
+Sunday 1st Sep,Devonport Tapeta Synthetic,8,08:07AM,1,Innocent Gamble,35
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,2,Aslanyon,100
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,7,Cricketer,84
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,3,Uboa,78
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,6,Tree Bandit,72
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,1,Wallis,64
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,4,Veloce Cavallo,64
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,10,Ben Annalou,64
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,9,Super Broadband,62
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,5,Gee Gee's Boss,60
+Sunday 1st Sep,Devonport Tapeta Synthetic,9,08:45AM,8,Colonial Gold,52
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,11,Hydroflight,100
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,6,My Butler,77
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,7,Responsive,73
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,3,Centavision,63
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,13,Why the Blue Face,58
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,10,Hold That Vee,56
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,8,Diamond,54
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,9,Fancy Footwork,48
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,1,Beijing,19
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,2,Cadin's Rock,0
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,4,High Demand,0
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,5,Invincible Force,0
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,12,Our Saxon Flyer,0
+Sunday 1st Sep,Kalgoorlie,1,07:24AM,14,Pegalicious,0
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,3,Bear Rio,100
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,7,Sovereign Debt,93
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,5,Albertani,90
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,9,Hallowell Fever,90
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,6,Walk By My Side,83
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,2,Not So Vain,80
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,4,Toss'n'spin,78
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,8,Carla,78
+Sunday 1st Sep,Kalgoorlie,2,07:59AM,1,Lunar Module,66
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,6,Hussars,100
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,4,Massivo,94
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,7,Sugar Man,92
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,3,Hiatus,73
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,1,Uma Park,70
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,5,Our New Order,68
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,2,Marmaa,60
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,9,Star Trader,52
+Sunday 1st Sep,Kalgoorlie,3,08:35AM,8,Imabutu,43
