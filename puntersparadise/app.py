@@ -1,3 +1,12 @@
+###############################################################################
+#    Description: Collects data from punter paradise.com.au
+#    Author : Diaa Kasem
+#    Email  : me@diaa.me
+#    oDesk  : https://www.odesk.com/users/~019c6c183545f26f3f
+#    Usage  : Alter the config vlues below
+#             Save The script with a <name.py>
+#             execute 'python <name.py>' Where name.py is the script name
+###############################################################################
 from bs4 import BeautifulSoup
 import urllib2
 import csv
@@ -47,13 +56,19 @@ def ordinal(n):
         return  str(n) + {1 : 'st', 2 : 'nd', 3 : 'rd'}.get(n % 10, "th")
 
 def isToday(ts):
+    """
+    Check if the Date of race equals today
+    """
     n = datetime.datetime.now()
     d = datetime.datetime.fromtimestamp(ts)
-    print "Race Date : %s " % d
-    print "Your current time: %s " % n
+    # print "Race Date : %s " % d
+    # print "Your current time: %s " % n
     return d.day == n.day
 
 def getMeetings():
+    """
+    Collect all race meetings going to happen
+    """
     page = urllib2.urlopen(meetings_url).read()
     soup = BeautifulSoup(page)
     scripts = soup.findAll('script')
@@ -63,6 +78,9 @@ def getMeetings():
     return json.loads(array[0])
 
 def extractPage(url):
+    """
+    Extract Meetings data from page
+    """
     page = urllib2.urlopen(url).read()
     soup = BeautifulSoup(page)
     fh = soup.find('div' , {'class': 'formHeader'})
@@ -91,6 +109,8 @@ def extractPage(url):
             return float(s[0:4])
         return float(s)
 
+    # A dictionary that when script executes, will hold max value
+    # Important for calculations  - DO NOT ALTER
     maxResults = {
             "weight-kg"           : 0,
             "horse-age"           : 0,
@@ -111,6 +131,8 @@ def extractPage(url):
             "dead-tracks"         : 0,
             "slow-tracks"         : 0
             }
+
+    # Calculating horse rate
     for runner in runners:
         obj = {
             "runner-name"         : runner.get('data-runner-name', ''),
@@ -163,6 +185,7 @@ def extractPage(url):
         for k in config.iterkeys():
             rate += ( horse.get(k, 0) / (maxResults.get(k, 1) or 1) ) * config.get(k, 0) / 100
 
+        # SAVING HORSE RATES
         horsesRates[horse.get('runner-name', '').strip()] = int(round(rate * 100))
 
     data = soup.find('table', {'class': 'formRaceCard'})
@@ -189,19 +212,30 @@ def extractPage(url):
                 'Horse': name,
                 'Rat': rate
                 }
+
+        # Saving Extracted Data
         result.append(obj)
 
+    # Sort Records in race by horse Rate
     result.sort(key=lambda row: row.get('Rat', 0), reverse=True)
     # print json.dumps(result, sort_keys = False, indent = 4)
     return result
 
 def writeData(outputFile, data):
+    """
+    Save Data to Desk
+    @param outputFile   The path of the file to write to
+    @param data         The dictionary of value to save
+    """
     with open(outputFile, 'wb') as csvfile:
         output = csv.DictWriter(csvfile, delimiter=',', fieldnames=fields)
         output.writeheader()
         output.writerows(data)
 
 def main():
+    """
+    Program Starting Point
+    """
     result = []
     meetings = getMeetings()
     for meeting in meetings:
