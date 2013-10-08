@@ -1,0 +1,309 @@
+EEES 302: Challenges and Practices in Crossdisciplinary Research and Teaching
+not given this year
+
+EEES 400: Research in Earth, Energy, and Environmental Sciences
+Aut, Win, Spr, Sum
+
+EEES 802: TGR Dissertation
+Aut, Win, Spr, Sum
+
+ENERGY 24: Making Molehills out of Mountains: Energy and Development in Appalachia
+not given this year
+
+ENERGY 101: Energy and the Environment (EARTHSYS 101)
+Win
+
+ENERGY 101A: Energizing California
+Spr
+
+ENERGY 102: Renewable Energy Sources and Greener Energy Processes (EARTHSYS 102)
+Spr
+
+ENERGY 104: Transition to sustainable energy systems
+Spr
+
+ENERGY 120: Fundamentals of Petroleum Engineering (ENGR 120)
+Aut
+
+ENERGY 120A: Flow Through Porous Media Laboratory
+Aut
+
+ENERGY 121: Fundamentals of Multiphase Flow (ENERGY 221)
+Win
+
+ENERGY 125: Modeling and Simulation for Geoscientists and Engineers
+alternate years, given next year
+
+ENERGY 130: Well Log Analysis I
+Aut
+
+ENERGY 175: Well Test Analysis
+Spr
+
+ENERGY 180: Oil and Gas Production Engineering (ENERGY 280)
+not given this year
+
+ENERGY 191: Optimization of Energy Systems (ENERGY 291)
+Win
+
+ENERGY 192: Undergraduate Teaching Experience
+Aut, Win, Spr, Sum
+
+ENERGY 193: Undergraduate Research Problems
+Aut, Win, Spr, Sum
+
+ENERGY 194: Special Topics in Energy and Mineral Fluids
+Aut, Win, Spr, Sum
+
+ENERGY 199: Senior Project and Seminar in Energy Resources
+Spr
+
+ENERGY 201: Laboratory Measurement of Reservoir Rock Properties
+Win
+
+ENERGY 202: Petroleum Industry Performance Management
+Aut
+
+ENERGY 212: Advanced Programming for Scientists and Engineers	 (CME 212)
+Win
+
+ENERGY 285D: SUPRI-D Research Seminar: Well Test Analysis
+Aut, Win
+
+ENERGY 285F: SCRF Research Seminar: Geostatistics and Reservoir Forecasting
+Aut, Win
+
+ENERGY 285G: Geothermal Reservoir Engineering Research Seminar
+Aut, Win
+
+ENERGY 285S: Smart Fields Research Seminar: Horizontal Well Technology
+Aut, Win
+
+ENERGY 290: Numerical Modeling of Fluid Flow in Heterogeneous Porous Media
+not given this year
+
+ENERGY 291: Optimization of Energy Systems (ENERGY 191)
+Win
+
+ENERGY 293A: Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution (EE 293A, MATSCI 156, MATSCI 256)
+Aut
+
+ENERGY 293B: Fundamentals of Energy Processes (EE 293B)
+Win
+
+ENERGY 293C: Energy from Wind and Water Currents
+Spr
+
+ENERGY 295: Quantitative environmental assessment of energy systems
+not given this year
+
+ENERGY 141: Seismic Reservoir Characterization (ENERGY 241, GEOPHYS 241A)
+Spr
+
+ENERGY 146: Reservoir Characterization and Flow Modeling with Outcrop Data (ENERGY 246, GES 246)
+Aut
+
+ENERGY 153: Carbon Capture and Sequestration (ENERGY 253)
+Aut
+
+ENERGY 154: Energy in Transition:  Technology, Policy and Politics
+not given this year
+
+ENERGY 155: Undergraduate Report on Energy Industry Training
+Aut, Win, Spr, Sum
+
+ENERGY 158: Bringing New Energy Technologies to Market: Optimizing Technology Push and Market Pull
+Aut
+
+ENERGY 160: Modeling Uncertainty in the Earth Sciences (ENERGY 260)
+Win
+
+ENERGY 161: Statistical Methods for the Earth and Environmental Sciences: Geostatistics (EARTHSYS 161, EESS 161)
+not given this year
+
+ENERGY 167: Engineering Valuation and Appraisal of Oil and Gas Wells, Facilities, and Properties (ENERGY 267)
+Win
+
+ENERGY 171: Energy Infrastructure, Technology and Economics (ENERGY 271)
+Aut
+
+ENERGY 267: Engineering Valuation and Appraisal of Oil and Gas Wells, Facilities, and Properties (ENERGY 167)
+Win
+
+ENERGY 269: Geothermal Reservoir Engineering
+not given this year
+
+ENERGY 271: Energy Infrastructure, Technology and Economics (ENERGY 171)
+Aut
+
+ENERGY 273: Special Topics in Energy Resources Engineering
+Aut, Win, Spr, Sum
+
+ENERGY 280: Oil and Gas Production Engineering (ENERGY 180)
+not given this year
+
+ENERGY 281: Applied Mathematics in Reservoir Engineering
+alternate years, given next year
+
+ENERGY 284: Optimization and Inverse Modeling
+Aut
+
+ENERGY 285A: SUPRI-A Research Seminar: Enhanced Oil Recovery
+Aut, Win, Spr
+
+ENERGY 285B: SUPRI-B Research Seminar: Reservoir Simulation
+Aut, Win
+
+ENERGY 285C: SUPRI-C Research Seminar: Gas Injection Processes
+Aut, Win
+
+ENERGY 242: Topics in Advanced Geostatistics (EESS 263)
+not given this year
+
+ENERGY 246: Reservoir Characterization and Flow Modeling with Outcrop Data (ENERGY 146, GES 246)
+Aut
+
+ENERGY 247: Stochastic Simulation
+not given this year
+
+ENERGY 251: Thermodynamics of Equilibria
+Aut
+
+ENERGY 252: Chemical Kinetics Modeling
+not given this year
+
+ENERGY 253: Carbon Capture and Sequestration (ENERGY 153)
+Aut
+
+ENERGY 255: Master's Report on Energy Industry Training
+Sum
+
+ENERGY 256: Electronic Structure Theory and Applications to Chemical Kinetics (CHEMENG 444)
+not given this year
+
+ENERGY 259: Presentation Skills
+not given this year
+
+ENERGY 260: Modeling Uncertainty in the Earth Sciences (ENERGY 160)
+Win
+
+ENERGY 802: TGR Dissertation
+Aut, Win, Spr, Sum
+
+ENERGY 221: Fundamentals of Multiphase Flow (ENERGY 121)
+Win
+
+ENERGY 222: Advanced Reservoir Engineering
+Spr
+
+ENERGY 223: Reservoir Simulation
+Win
+
+ENERGY 224: Advanced Reservoir Simulation
+Aut
+
+ENERGY 225: Theory of Gas Injection Processes
+Spr
+
+ENERGY 226: Thermal Recovery Methods
+Spr
+
+ENERGY 227: Enhanced Oil Recovery
+alternate years, given next year
+
+ENERGY 230: Advanced Topics in Well Logging
+Spr
+
+ENERGY 240: Geostatistics (GES 240)
+Spr
+
+ENERGY 241: Seismic Reservoir Characterization (ENERGY 141, GEOPHYS 241A)
+Spr
+
+ENERGY 301: The Energy Seminar (CEE 301)
+Aut, Win, Spr
+
+ENERGY 355: Doctoral Report on Energy Industry Training
+Sum
+
+ENERGY 359: Teaching Experience in Energy Resources Engineering
+Aut, Win, Spr
+
+ENERGY 360: Advanced Research Work in Energy Resources Engineering
+Aut, Win, Spr, Sum
+
+ENERGY 361: Master's Degree Research in Energy Resources Engineering
+Aut, Win, Spr, Sum
+
+ENERGY 362: Engineer's Degree Research in Energy Resources Engineering
+Aut, Win, Spr, Sum
+
+ENERGY 363: Doctoral Degree Research in Energy Resources Engineering
+Aut, Win, Spr, Sum
+
+ENERGY 365: Special Research Topics in Energy Resources Engineering
+Aut, Win, Spr, Sum
+
+ENERGY 369: Practical Energy Studies
+not given this year
+
+ENERGY 801: TGR Project
+Aut, Win, Spr, Sum
+
+ENVRES 200: Sustaining Action: Research, Analysis and Writing for the Public (EARTHSYS 200)
+Aut, Spr
+
+ENVRES 215: Digital Storytelling for Researchers
+not given this year
+
+ENVRES 225: E-IPER Current Topics Seminar
+Aut, Win, Spr
+
+ENVRES 230: Field Survey Data Collection & Analysis
+Spr
+
+ENVRES 240: Environmental Decision-Making and Risk Perception
+Win
+
+ENVRES 250: Environmental Governance (CEE 277C)
+Win, alternate years, not given next year
+
+ENVRES 270: Graduate Practicum in Environment and Resources
+Aut, Win, Spr, Sum
+
+ENVRES 277C: Specialized Writing and Reporting: Environmental Journalism (COMM 177C, COMM 277C, EARTHSYS 177C)
+Spr
+
+ENVRES 280: Introduction to Environmental Science
+Aut
+
+ENVRES 290: Capstone Project Seminar in Environment and Resources
+Aut, Spr
+
+ENVRES 310: Environmental Forum Seminar
+Aut
+
+ENVRES 315: Environmental Research Design Seminar
+Win
+
+ENVRES 320: Designing Environmental Research
+Win
+
+ENVRES 330: Research Approaches for Environmental Problem Solving
+Spr
+
+ENVRES 398: Directed Individual Study in Environment and Resources
+Aut, Win, Spr, Sum
+
+ENVRES 399: Directed Research in Environment and Resources
+Aut, Win, Spr, Sum
+
+ENVRES 410: Ph.D. Qualifying Tutorial
+Aut, Win, Spr, Sum
+
+ENVRES 801: TGR Project
+Aut, Win, Spr, Sum
+
+ENVRES 802: TGR Dissertation
+Aut, Win, Spr, Sum
+
